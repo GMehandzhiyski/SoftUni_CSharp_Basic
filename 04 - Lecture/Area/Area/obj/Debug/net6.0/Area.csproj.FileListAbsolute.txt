@@ -1,0 +1,15 @@
+D:\Work_Git\CSharp_Basic\04 - Lecture\Area\Area\bin\Debug\net6.0\Area.exe
+D:\Work_Git\CSharp_Basic\04 - Lecture\Area\Area\bin\Debug\net6.0\Area.deps.json
+D:\Work_Git\CSharp_Basic\04 - Lecture\Area\Area\bin\Debug\net6.0\Area.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\04 - Lecture\Area\Area\bin\Debug\net6.0\Area.dll
+D:\Work_Git\CSharp_Basic\04 - Lecture\Area\Area\bin\Debug\net6.0\Area.pdb
+D:\Work_Git\CSharp_Basic\04 - Lecture\Area\Area\obj\Debug\net6.0\Area.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\04 - Lecture\Area\Area\obj\Debug\net6.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\04 - Lecture\Area\Area\obj\Debug\net6.0\Area.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\04 - Lecture\Area\Area\obj\Debug\net6.0\Area.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\04 - Lecture\Area\Area\obj\Debug\net6.0\Area.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\04 - Lecture\Area\Area\obj\Debug\net6.0\Area.dll
+D:\Work_Git\CSharp_Basic\04 - Lecture\Area\Area\obj\Debug\net6.0\refint\Area.dll
+D:\Work_Git\CSharp_Basic\04 - Lecture\Area\Area\obj\Debug\net6.0\Area.pdb
+D:\Work_Git\CSharp_Basic\04 - Lecture\Area\Area\obj\Debug\net6.0\Area.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\04 - Lecture\Area\Area\obj\Debug\net6.0\ref\Area.dll

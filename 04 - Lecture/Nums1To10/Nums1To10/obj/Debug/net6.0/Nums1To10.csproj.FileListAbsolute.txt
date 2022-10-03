@@ -1,0 +1,15 @@
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10\Nums1To10\bin\Debug\net6.0\Nums1To10.exe
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10\Nums1To10\bin\Debug\net6.0\Nums1To10.deps.json
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10\Nums1To10\bin\Debug\net6.0\Nums1To10.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10\Nums1To10\bin\Debug\net6.0\Nums1To10.dll
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10\Nums1To10\bin\Debug\net6.0\Nums1To10.pdb
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10\Nums1To10\obj\Debug\net6.0\Nums1To10.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10\Nums1To10\obj\Debug\net6.0\Nums1To10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10\Nums1To10\obj\Debug\net6.0\Nums1To10.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10\Nums1To10\obj\Debug\net6.0\Nums1To10.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10\Nums1To10\obj\Debug\net6.0\Nums1To10.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10\Nums1To10\obj\Debug\net6.0\Nums1To10.dll
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10\Nums1To10\obj\Debug\net6.0\refint\Nums1To10.dll
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10\Nums1To10\obj\Debug\net6.0\Nums1To10.pdb
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10\Nums1To10\obj\Debug\net6.0\Nums1To10.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10\Nums1To10\obj\Debug\net6.0\ref\Nums1To10.dll

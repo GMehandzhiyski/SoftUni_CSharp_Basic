@@ -1,0 +1,15 @@
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10ForLoop\Nums1To10ForLoop\bin\Debug\net6.0\Nums1To10ForLoop.exe
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10ForLoop\Nums1To10ForLoop\bin\Debug\net6.0\Nums1To10ForLoop.deps.json
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10ForLoop\Nums1To10ForLoop\bin\Debug\net6.0\Nums1To10ForLoop.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10ForLoop\Nums1To10ForLoop\bin\Debug\net6.0\Nums1To10ForLoop.dll
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10ForLoop\Nums1To10ForLoop\bin\Debug\net6.0\Nums1To10ForLoop.pdb
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10ForLoop\Nums1To10ForLoop\obj\Debug\net6.0\Nums1To10ForLoop.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10ForLoop\Nums1To10ForLoop\obj\Debug\net6.0\Nums1To10ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10ForLoop\Nums1To10ForLoop\obj\Debug\net6.0\Nums1To10ForLoop.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10ForLoop\Nums1To10ForLoop\obj\Debug\net6.0\Nums1To10ForLoop.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10ForLoop\Nums1To10ForLoop\obj\Debug\net6.0\Nums1To10ForLoop.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10ForLoop\Nums1To10ForLoop\obj\Debug\net6.0\Nums1To10ForLoop.dll
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10ForLoop\Nums1To10ForLoop\obj\Debug\net6.0\refint\Nums1To10ForLoop.dll
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10ForLoop\Nums1To10ForLoop\obj\Debug\net6.0\Nums1To10ForLoop.pdb
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10ForLoop\Nums1To10ForLoop\obj\Debug\net6.0\Nums1To10ForLoop.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\04 - Lecture\Nums1To10ForLoop\Nums1To10ForLoop\obj\Debug\net6.0\ref\Nums1To10ForLoop.dll
