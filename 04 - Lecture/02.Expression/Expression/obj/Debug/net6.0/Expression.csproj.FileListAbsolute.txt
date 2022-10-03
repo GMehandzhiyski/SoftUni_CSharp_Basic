@@ -1,0 +1,15 @@
+D:\Work_Git\CSharp_Basic\04 - Lecture\02.Expression\Expression\bin\Debug\net6.0\Expression.exe
+D:\Work_Git\CSharp_Basic\04 - Lecture\02.Expression\Expression\bin\Debug\net6.0\Expression.deps.json
+D:\Work_Git\CSharp_Basic\04 - Lecture\02.Expression\Expression\bin\Debug\net6.0\Expression.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\04 - Lecture\02.Expression\Expression\bin\Debug\net6.0\Expression.dll
+D:\Work_Git\CSharp_Basic\04 - Lecture\02.Expression\Expression\bin\Debug\net6.0\Expression.pdb
+D:\Work_Git\CSharp_Basic\04 - Lecture\02.Expression\Expression\obj\Debug\net6.0\Expression.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\04 - Lecture\02.Expression\Expression\obj\Debug\net6.0\Expression.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\04 - Lecture\02.Expression\Expression\obj\Debug\net6.0\Expression.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\04 - Lecture\02.Expression\Expression\obj\Debug\net6.0\Expression.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\04 - Lecture\02.Expression\Expression\obj\Debug\net6.0\Expression.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\04 - Lecture\02.Expression\Expression\obj\Debug\net6.0\Expression.dll
+D:\Work_Git\CSharp_Basic\04 - Lecture\02.Expression\Expression\obj\Debug\net6.0\refint\Expression.dll
+D:\Work_Git\CSharp_Basic\04 - Lecture\02.Expression\Expression\obj\Debug\net6.0\Expression.pdb
+D:\Work_Git\CSharp_Basic\04 - Lecture\02.Expression\Expression\obj\Debug\net6.0\Expression.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\04 - Lecture\02.Expression\Expression\obj\Debug\net6.0\ref\Expression.dll
