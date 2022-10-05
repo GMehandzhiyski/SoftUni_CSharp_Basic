@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\SimpleOperations\obj\Debug\net5.0\InchToCentimeters.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\SimpleOperations\obj\Debug\net5.0\InchToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\SimpleOperations\obj\Debug\net5.0\InchToCentimeters.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\SimpleOperations\obj\Debug\net5.0\InchToCentimeters.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\SimpleOperations\obj\Debug\net5.0\InchToCentimeters.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\SimpleOperations\bin\Debug\net5.0\InchToCentimeters.exe
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\SimpleOperations\bin\Debug\net5.0\InchToCentimeters.deps.json
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\SimpleOperations\bin\Debug\net5.0\InchToCentimeters.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\SimpleOperations\bin\Debug\net5.0\InchToCentimeters.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\SimpleOperations\bin\Debug\net5.0\InchToCentimeters.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\SimpleOperations\bin\Debug\net5.0\InchToCentimeters.pdb
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\SimpleOperations\obj\Debug\net5.0\InchToCentimeters.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\SimpleOperations\obj\Debug\net5.0\refint\InchToCentimeters.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\SimpleOperations\obj\Debug\net5.0\InchToCentimeters.pdb
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\SimpleOperations\obj\Debug\net5.0\InchToCentimeters.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\SimpleOperations\obj\Debug\net5.0\ref\InchToCentimeters.dll
