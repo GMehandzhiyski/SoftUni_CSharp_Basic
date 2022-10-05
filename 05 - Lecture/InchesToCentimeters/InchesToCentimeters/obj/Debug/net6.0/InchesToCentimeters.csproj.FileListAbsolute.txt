@@ -1,0 +1,15 @@
+D:\Work_Git\CSharp_Basic\05 - Lecture\InchesToCentimeters\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.exe
+D:\Work_Git\CSharp_Basic\05 - Lecture\InchesToCentimeters\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.deps.json
+D:\Work_Git\CSharp_Basic\05 - Lecture\InchesToCentimeters\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\05 - Lecture\InchesToCentimeters\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\InchesToCentimeters\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.pdb
+D:\Work_Git\CSharp_Basic\05 - Lecture\InchesToCentimeters\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\InchesToCentimeters\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\05 - Lecture\InchesToCentimeters\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\InchesToCentimeters\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\05 - Lecture\InchesToCentimeters\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\InchesToCentimeters\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\InchesToCentimeters\InchesToCentimeters\obj\Debug\net6.0\refint\InchesToCentimeters.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\InchesToCentimeters\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.pdb
+D:\Work_Git\CSharp_Basic\05 - Lecture\InchesToCentimeters\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\InchesToCentimeters\InchesToCentimeters\obj\Debug\net6.0\ref\InchesToCentimeters.dll
