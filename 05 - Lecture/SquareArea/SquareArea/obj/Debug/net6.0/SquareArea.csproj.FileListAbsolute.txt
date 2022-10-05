@@ -1,0 +1,15 @@
+D:\Work_Git\CSharp_Basic\05 - Lecture\SquareArea\SquareArea\bin\Debug\net6.0\SquareArea.exe
+D:\Work_Git\CSharp_Basic\05 - Lecture\SquareArea\SquareArea\bin\Debug\net6.0\SquareArea.deps.json
+D:\Work_Git\CSharp_Basic\05 - Lecture\SquareArea\SquareArea\bin\Debug\net6.0\SquareArea.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\05 - Lecture\SquareArea\SquareArea\bin\Debug\net6.0\SquareArea.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\SquareArea\SquareArea\bin\Debug\net6.0\SquareArea.pdb
+D:\Work_Git\CSharp_Basic\05 - Lecture\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\05 - Lecture\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\05 - Lecture\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\SquareArea\SquareArea\obj\Debug\net6.0\refint\SquareArea.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.pdb
+D:\Work_Git\CSharp_Basic\05 - Lecture\SquareArea\SquareArea\obj\Debug\net6.0\SquareArea.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SquareArea\SquareArea\obj\Debug\net6.0\ref\SquareArea.dll
