@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\ProjectCreation\obj\Debug\net5.0\ProjectCreation.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\ProjectCreation\obj\Debug\net5.0\ProjectCreation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\ProjectCreation\obj\Debug\net5.0\ProjectCreation.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\ProjectCreation\obj\Debug\net5.0\ProjectCreation.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\ProjectCreation\obj\Debug\net5.0\ProjectCreation.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\ProjectCreation\bin\Debug\net5.0\ProjectCreation.exe
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\ProjectCreation\bin\Debug\net5.0\ProjectCreation.deps.json
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\ProjectCreation\bin\Debug\net5.0\ProjectCreation.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\ProjectCreation\bin\Debug\net5.0\ProjectCreation.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\ProjectCreation\bin\Debug\net5.0\ProjectCreation.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\ProjectCreation\bin\Debug\net5.0\ProjectCreation.pdb
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\ProjectCreation\obj\Debug\net5.0\ProjectCreation.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\ProjectCreation\obj\Debug\net5.0\refint\ProjectCreation.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\ProjectCreation\obj\Debug\net5.0\ProjectCreation.pdb
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\ProjectCreation\obj\Debug\net5.0\ProjectCreation.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\ProjectCreation\obj\Debug\net5.0\ref\ProjectCreation.dll
