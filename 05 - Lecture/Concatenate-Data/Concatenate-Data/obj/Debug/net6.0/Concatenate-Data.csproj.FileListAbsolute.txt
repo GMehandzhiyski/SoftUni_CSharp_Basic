@@ -1,0 +1,15 @@
+D:\Work_Git\CSharp_Basic\05 - Lecture\Concatenate-Data\Concatenate-Data\obj\Debug\net6.0\Concatenate-Data.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\Concatenate-Data\Concatenate-Data\obj\Debug\net6.0\Concatenate-Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\05 - Lecture\Concatenate-Data\Concatenate-Data\obj\Debug\net6.0\Concatenate-Data.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\Concatenate-Data\Concatenate-Data\obj\Debug\net6.0\Concatenate-Data.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\05 - Lecture\Concatenate-Data\Concatenate-Data\obj\Debug\net6.0\Concatenate-Data.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\Concatenate-Data\Concatenate-Data\bin\Debug\net6.0\Concatenate-Data.exe
+D:\Work_Git\CSharp_Basic\05 - Lecture\Concatenate-Data\Concatenate-Data\bin\Debug\net6.0\Concatenate-Data.deps.json
+D:\Work_Git\CSharp_Basic\05 - Lecture\Concatenate-Data\Concatenate-Data\bin\Debug\net6.0\Concatenate-Data.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\05 - Lecture\Concatenate-Data\Concatenate-Data\bin\Debug\net6.0\Concatenate-Data.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\Concatenate-Data\Concatenate-Data\bin\Debug\net6.0\Concatenate-Data.pdb
+D:\Work_Git\CSharp_Basic\05 - Lecture\Concatenate-Data\Concatenate-Data\obj\Debug\net6.0\Concatenate-Data.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\Concatenate-Data\Concatenate-Data\obj\Debug\net6.0\refint\Concatenate-Data.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\Concatenate-Data\Concatenate-Data\obj\Debug\net6.0\Concatenate-Data.pdb
+D:\Work_Git\CSharp_Basic\05 - Lecture\Concatenate-Data\Concatenate-Data\obj\Debug\net6.0\Concatenate-Data.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\Concatenate-Data\Concatenate-Data\obj\Debug\net6.0\ref\Concatenate-Data.dll
