@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\YardGreening\bin\Debug\net5.0\YardGreening.exe
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\YardGreening\bin\Debug\net5.0\YardGreening.deps.json
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\YardGreening\bin\Debug\net5.0\YardGreening.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\YardGreening\bin\Debug\net5.0\YardGreening.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\YardGreening\bin\Debug\net5.0\YardGreening.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\YardGreening\bin\Debug\net5.0\YardGreening.pdb
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\YardGreening\obj\Debug\net5.0\YardGreening.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\YardGreening\obj\Debug\net5.0\YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\YardGreening\obj\Debug\net5.0\YardGreening.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\YardGreening\obj\Debug\net5.0\YardGreening.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\YardGreening\obj\Debug\net5.0\YardGreening.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\YardGreening\obj\Debug\net5.0\YardGreening.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\YardGreening\obj\Debug\net5.0\refint\YardGreening.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\YardGreening\obj\Debug\net5.0\YardGreening.pdb
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\YardGreening\obj\Debug\net5.0\YardGreening.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\YardGreening\obj\Debug\net5.0\ref\YardGreening.dll
