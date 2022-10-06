@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleOperationsAndCalculat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USDtoBGN", "USDtoBGN\USDtoBGN.csproj", "{5A17A5F8-CF01-4D63-BBB4-9A4131176746}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadiansToDegrees", "RadiansToDegrees\RadiansToDegrees.csproj", "{36F6034F-8568-4353-9271-F6F0575D3F85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5A17A5F8-CF01-4D63-BBB4-9A4131176746}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A17A5F8-CF01-4D63-BBB4-9A4131176746}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A17A5F8-CF01-4D63-BBB4-9A4131176746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F6034F-8568-4353-9271-F6F0575D3F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F6034F-8568-4353-9271-F6F0575D3F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F6034F-8568-4353-9271-F6F0575D3F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F6034F-8568-4353-9271-F6F0575D3F85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
