@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\SimpleOperationsAndCalculations\bin\Debug\net5.0\SimpleOperationsAndCalculations.exe
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\SimpleOperationsAndCalculations\bin\Debug\net5.0\SimpleOperationsAndCalculations.deps.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\SimpleOperationsAndCalculations\bin\Debug\net5.0\SimpleOperationsAndCalculations.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\SimpleOperationsAndCalculations\bin\Debug\net5.0\SimpleOperationsAndCalculations.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\SimpleOperationsAndCalculations\bin\Debug\net5.0\SimpleOperationsAndCalculations.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\SimpleOperationsAndCalculations\bin\Debug\net5.0\SimpleOperationsAndCalculations.pdb
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\SimpleOperationsAndCalculations\obj\Debug\net5.0\SimpleOperationsAndCalculations.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\SimpleOperationsAndCalculations\obj\Debug\net5.0\SimpleOperationsAndCalculations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\SimpleOperationsAndCalculations\obj\Debug\net5.0\SimpleOperationsAndCalculations.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\SimpleOperationsAndCalculations\obj\Debug\net5.0\SimpleOperationsAndCalculations.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\SimpleOperationsAndCalculations\obj\Debug\net5.0\SimpleOperationsAndCalculations.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\SimpleOperationsAndCalculations\obj\Debug\net5.0\SimpleOperationsAndCalculations.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\SimpleOperationsAndCalculations\obj\Debug\net5.0\refint\SimpleOperationsAndCalculations.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\SimpleOperationsAndCalculations\obj\Debug\net5.0\SimpleOperationsAndCalculations.pdb
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\SimpleOperationsAndCalculations\obj\Debug\net5.0\SimpleOperationsAndCalculations.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\SimpleOperationsAndCalculations\obj\Debug\net5.0\ref\SimpleOperationsAndCalculations.dll

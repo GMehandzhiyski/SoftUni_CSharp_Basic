@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\USDtoBGN\bin\Debug\net5.0\USDtoBGN.exe
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\USDtoBGN\bin\Debug\net5.0\USDtoBGN.deps.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\USDtoBGN\bin\Debug\net5.0\USDtoBGN.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\USDtoBGN\bin\Debug\net5.0\USDtoBGN.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\USDtoBGN\bin\Debug\net5.0\USDtoBGN.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\USDtoBGN\bin\Debug\net5.0\USDtoBGN.pdb
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\USDtoBGN\obj\Debug\net5.0\USDtoBGN.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\USDtoBGN\obj\Debug\net5.0\USDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\USDtoBGN\obj\Debug\net5.0\USDtoBGN.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\USDtoBGN\obj\Debug\net5.0\USDtoBGN.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\USDtoBGN\obj\Debug\net5.0\USDtoBGN.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\USDtoBGN\obj\Debug\net5.0\USDtoBGN.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\USDtoBGN\obj\Debug\net5.0\refint\USDtoBGN.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\USDtoBGN\obj\Debug\net5.0\USDtoBGN.pdb
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\USDtoBGN\obj\Debug\net5.0\USDtoBGN.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\USDtoBGN\obj\Debug\net5.0\ref\USDtoBGN.dll
