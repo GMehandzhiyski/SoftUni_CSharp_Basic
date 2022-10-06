@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\FishTank\bin\Debug\net5.0\FishTank.exe
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\FishTank\bin\Debug\net5.0\FishTank.deps.json
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\FishTank\bin\Debug\net5.0\FishTank.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\FishTank\bin\Debug\net5.0\FishTank.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\FishTank\bin\Debug\net5.0\FishTank.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\FishTank\bin\Debug\net5.0\FishTank.pdb
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\FishTank\obj\Debug\net5.0\FishTank.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\FishTank\obj\Debug\net5.0\FishTank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\FishTank\obj\Debug\net5.0\FishTank.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\FishTank\obj\Debug\net5.0\FishTank.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\FishTank\obj\Debug\net5.0\FishTank.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\FishTank\obj\Debug\net5.0\FishTank.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\FishTank\obj\Debug\net5.0\refint\FishTank.dll
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\FishTank\obj\Debug\net5.0\FishTank.pdb
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\FishTank\obj\Debug\net5.0\FishTank.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\05 - Lecture\SimpleOperations\FishTank\obj\Debug\net5.0\ref\FishTank.dll
