@@ -6,7 +6,10 @@ namespace DanceHall
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double length = double.Parse(Console.ReadLine());
+            double width = double.Parse(Console.ReadLine());
+            double width = double.Parse(Console.ReadLine());
+
         }
     }
 }
