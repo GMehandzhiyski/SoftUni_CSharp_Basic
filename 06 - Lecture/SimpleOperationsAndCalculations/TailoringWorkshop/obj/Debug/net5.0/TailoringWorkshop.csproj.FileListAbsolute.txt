@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\TailoringWorkshop\obj\Debug\net5.0\TailoringWorkshop.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\TailoringWorkshop\obj\Debug\net5.0\TailoringWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\TailoringWorkshop\obj\Debug\net5.0\TailoringWorkshop.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\TailoringWorkshop\obj\Debug\net5.0\TailoringWorkshop.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\TailoringWorkshop\obj\Debug\net5.0\TailoringWorkshop.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\TailoringWorkshop\bin\Debug\net5.0\TailoringWorkshop.exe
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\TailoringWorkshop\bin\Debug\net5.0\TailoringWorkshop.deps.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\TailoringWorkshop\bin\Debug\net5.0\TailoringWorkshop.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\TailoringWorkshop\bin\Debug\net5.0\TailoringWorkshop.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\TailoringWorkshop\bin\Debug\net5.0\TailoringWorkshop.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\TailoringWorkshop\bin\Debug\net5.0\TailoringWorkshop.pdb
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\TailoringWorkshop\obj\Debug\net5.0\TailoringWorkshop.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\TailoringWorkshop\obj\Debug\net5.0\refint\TailoringWorkshop.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\TailoringWorkshop\obj\Debug\net5.0\TailoringWorkshop.pdb
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\TailoringWorkshop\obj\Debug\net5.0\TailoringWorkshop.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\TailoringWorkshop\obj\Debug\net5.0\ref\TailoringWorkshop.dll
