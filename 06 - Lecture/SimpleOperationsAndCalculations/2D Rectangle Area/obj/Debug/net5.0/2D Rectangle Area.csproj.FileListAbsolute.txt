@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\2D Rectangle Area\bin\Debug\net5.0\2D Rectangle Area.exe
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\2D Rectangle Area\bin\Debug\net5.0\2D Rectangle Area.deps.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\2D Rectangle Area\bin\Debug\net5.0\2D Rectangle Area.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\2D Rectangle Area\bin\Debug\net5.0\2D Rectangle Area.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\2D Rectangle Area\bin\Debug\net5.0\2D Rectangle Area.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\2D Rectangle Area\bin\Debug\net5.0\2D Rectangle Area.pdb
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\2D Rectangle Area\obj\Debug\net5.0\2D Rectangle Area.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\2D Rectangle Area\obj\Debug\net5.0\2D Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\2D Rectangle Area\obj\Debug\net5.0\2D Rectangle Area.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\2D Rectangle Area\obj\Debug\net5.0\2D Rectangle Area.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\2D Rectangle Area\obj\Debug\net5.0\2D Rectangle Area.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\2D Rectangle Area\obj\Debug\net5.0\2D Rectangle Area.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\2D Rectangle Area\obj\Debug\net5.0\refint\2D Rectangle Area.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\2D Rectangle Area\obj\Debug\net5.0\2D Rectangle Area.pdb
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\2D Rectangle Area\obj\Debug\net5.0\2D Rectangle Area.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\2D Rectangle Area\obj\Debug\net5.0\ref\2D Rectangle Area.dll
