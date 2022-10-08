@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\DanceHall\bin\Debug\net5.0\DanceHall.exe
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\DanceHall\bin\Debug\net5.0\DanceHall.deps.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\DanceHall\bin\Debug\net5.0\DanceHall.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\DanceHall\bin\Debug\net5.0\DanceHall.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\DanceHall\bin\Debug\net5.0\DanceHall.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\DanceHall\bin\Debug\net5.0\DanceHall.pdb
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\DanceHall\obj\Debug\net5.0\DanceHall.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\DanceHall\obj\Debug\net5.0\DanceHall.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\DanceHall\obj\Debug\net5.0\DanceHall.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\DanceHall\obj\Debug\net5.0\DanceHall.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\DanceHall\obj\Debug\net5.0\DanceHall.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\DanceHall\obj\Debug\net5.0\DanceHall.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\DanceHall\obj\Debug\net5.0\refint\DanceHall.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\DanceHall\obj\Debug\net5.0\DanceHall.pdb
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\DanceHall\obj\Debug\net5.0\DanceHall.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\DanceHall\obj\Debug\net5.0\ref\DanceHall.dll
