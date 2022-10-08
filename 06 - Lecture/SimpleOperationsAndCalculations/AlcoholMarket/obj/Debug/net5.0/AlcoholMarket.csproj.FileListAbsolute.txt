@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\AlcoholMarket\bin\Debug\net5.0\AlcoholMarket.exe
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\AlcoholMarket\bin\Debug\net5.0\AlcoholMarket.deps.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\AlcoholMarket\bin\Debug\net5.0\AlcoholMarket.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\AlcoholMarket\bin\Debug\net5.0\AlcoholMarket.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\AlcoholMarket\bin\Debug\net5.0\AlcoholMarket.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\AlcoholMarket\bin\Debug\net5.0\AlcoholMarket.pdb
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\AlcoholMarket\obj\Debug\net5.0\AlcoholMarket.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\AlcoholMarket\obj\Debug\net5.0\AlcoholMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\AlcoholMarket\obj\Debug\net5.0\AlcoholMarket.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\AlcoholMarket\obj\Debug\net5.0\AlcoholMarket.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\AlcoholMarket\obj\Debug\net5.0\AlcoholMarket.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\AlcoholMarket\obj\Debug\net5.0\AlcoholMarket.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\AlcoholMarket\obj\Debug\net5.0\refint\AlcoholMarket.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\AlcoholMarket\obj\Debug\net5.0\AlcoholMarket.pdb
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\AlcoholMarket\obj\Debug\net5.0\AlcoholMarket.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\AlcoholMarket\obj\Debug\net5.0\ref\AlcoholMarket.dll
