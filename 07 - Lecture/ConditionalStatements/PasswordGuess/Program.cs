@@ -14,7 +14,7 @@ namespace PasswordGuess
             }
             else
             {
-                Console.WriteLine("Wrong password");
+                Console.WriteLine("Wrong password!");
             }
         }
     }

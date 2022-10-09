@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\AreaOfFigures\bin\Debug\net5.0\AreaOfFigures.exe
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\AreaOfFigures\bin\Debug\net5.0\AreaOfFigures.deps.json
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\AreaOfFigures\bin\Debug\net5.0\AreaOfFigures.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\AreaOfFigures\bin\Debug\net5.0\AreaOfFigures.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\AreaOfFigures\bin\Debug\net5.0\AreaOfFigures.dll
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\AreaOfFigures\bin\Debug\net5.0\AreaOfFigures.pdb
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.dll
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\AreaOfFigures\obj\Debug\net5.0\refint\AreaOfFigures.dll
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.pdb
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\AreaOfFigures\obj\Debug\net5.0\AreaOfFigures.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\AreaOfFigures\obj\Debug\net5.0\ref\AreaOfFigures.dll
