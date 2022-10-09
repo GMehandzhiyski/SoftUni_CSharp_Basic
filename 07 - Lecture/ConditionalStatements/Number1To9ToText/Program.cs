@@ -46,7 +46,7 @@ namespace Number1To9ToText
             }
             else
             {
-                Console.WriteLine("number to big");
+                Console.WriteLine("number too big");
             }
 
 

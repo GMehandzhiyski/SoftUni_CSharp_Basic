@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOrOdd", "EvenOrOdd\Even
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number1To9ToText", "Number1To9ToText\Number1To9ToText.csproj", "{5A10F020-A01E-4B58-8B9E-936710D437C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number100To200", "Number100To200\Number100To200.csproj", "{0F54F8C0-86BD-45A1-9628-1676B11DB545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordGuess", "PasswordGuess\PasswordGuess.csproj", "{0C496BFF-3671-49D4-8C7E-71AE0848EBCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{5A10F020-A01E-4B58-8B9E-936710D437C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A10F020-A01E-4B58-8B9E-936710D437C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A10F020-A01E-4B58-8B9E-936710D437C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F54F8C0-86BD-45A1-9628-1676B11DB545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F54F8C0-86BD-45A1-9628-1676B11DB545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F54F8C0-86BD-45A1-9628-1676B11DB545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F54F8C0-86BD-45A1-9628-1676B11DB545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C496BFF-3671-49D4-8C7E-71AE0848EBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C496BFF-3671-49D4-8C7E-71AE0848EBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C496BFF-3671-49D4-8C7E-71AE0848EBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C496BFF-3671-49D4-8C7E-71AE0848EBCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
