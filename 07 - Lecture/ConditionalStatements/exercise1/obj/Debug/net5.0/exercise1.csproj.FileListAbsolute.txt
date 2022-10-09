@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\06 - Lecture\ConditionalStatements\exercise1\bin\Debug\net5.0\exercise1.exe
+D:\Work_Git\CSharp_Basic\06 - Lecture\ConditionalStatements\exercise1\bin\Debug\net5.0\exercise1.deps.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\ConditionalStatements\exercise1\bin\Debug\net5.0\exercise1.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\ConditionalStatements\exercise1\bin\Debug\net5.0\exercise1.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\ConditionalStatements\exercise1\bin\Debug\net5.0\exercise1.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\ConditionalStatements\exercise1\bin\Debug\net5.0\exercise1.pdb
+D:\Work_Git\CSharp_Basic\06 - Lecture\ConditionalStatements\exercise1\obj\Debug\net5.0\exercise1.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\ConditionalStatements\exercise1\obj\Debug\net5.0\exercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\06 - Lecture\ConditionalStatements\exercise1\obj\Debug\net5.0\exercise1.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\ConditionalStatements\exercise1\obj\Debug\net5.0\exercise1.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\06 - Lecture\ConditionalStatements\exercise1\obj\Debug\net5.0\exercise1.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\ConditionalStatements\exercise1\obj\Debug\net5.0\exercise1.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\ConditionalStatements\exercise1\obj\Debug\net5.0\refint\exercise1.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\ConditionalStatements\exercise1\obj\Debug\net5.0\exercise1.pdb
+D:\Work_Git\CSharp_Basic\06 - Lecture\ConditionalStatements\exercise1\obj\Debug\net5.0\exercise1.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\ConditionalStatements\exercise1\obj\Debug\net5.0\ref\exercise1.dll
