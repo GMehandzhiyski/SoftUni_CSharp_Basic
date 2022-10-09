@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ToyShop\obj\Debug\net5.0\ToyShop.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ToyShop\obj\Debug\net5.0\ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ToyShop\obj\Debug\net5.0\ToyShop.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ToyShop\obj\Debug\net5.0\ToyShop.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ToyShop\obj\Debug\net5.0\ToyShop.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ToyShop\bin\Debug\net5.0\ToyShop.exe
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ToyShop\bin\Debug\net5.0\ToyShop.deps.json
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ToyShop\bin\Debug\net5.0\ToyShop.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ToyShop\bin\Debug\net5.0\ToyShop.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ToyShop\bin\Debug\net5.0\ToyShop.dll
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ToyShop\bin\Debug\net5.0\ToyShop.pdb
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ToyShop\obj\Debug\net5.0\ToyShop.dll
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ToyShop\obj\Debug\net5.0\refint\ToyShop.dll
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ToyShop\obj\Debug\net5.0\ToyShop.pdb
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ToyShop\obj\Debug\net5.0\ToyShop.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ToyShop\obj\Debug\net5.0\ref\ToyShop.dll
