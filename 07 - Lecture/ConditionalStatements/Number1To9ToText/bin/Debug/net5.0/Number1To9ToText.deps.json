@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Number1To9ToText/1.0.0": {
+        "runtime": {
+          "Number1To9ToText.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Number1To9ToText/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

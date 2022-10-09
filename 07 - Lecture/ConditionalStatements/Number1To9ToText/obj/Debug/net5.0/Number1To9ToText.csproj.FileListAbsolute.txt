@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\Number1To9ToText\bin\Debug\net5.0\Number1To9ToText.exe
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\Number1To9ToText\bin\Debug\net5.0\Number1To9ToText.deps.json
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\Number1To9ToText\bin\Debug\net5.0\Number1To9ToText.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\Number1To9ToText\bin\Debug\net5.0\Number1To9ToText.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\Number1To9ToText\bin\Debug\net5.0\Number1To9ToText.dll
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\Number1To9ToText\bin\Debug\net5.0\Number1To9ToText.pdb
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\Number1To9ToText\obj\Debug\net5.0\Number1To9ToText.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\Number1To9ToText\obj\Debug\net5.0\Number1To9ToText.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\Number1To9ToText\obj\Debug\net5.0\Number1To9ToText.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\Number1To9ToText\obj\Debug\net5.0\Number1To9ToText.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\Number1To9ToText\obj\Debug\net5.0\Number1To9ToText.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\Number1To9ToText\obj\Debug\net5.0\Number1To9ToText.dll
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\Number1To9ToText\obj\Debug\net5.0\refint\Number1To9ToText.dll
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\Number1To9ToText\obj\Debug\net5.0\Number1To9ToText.pdb
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\Number1To9ToText\obj\Debug\net5.0\Number1To9ToText.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\Number1To9ToText\obj\Debug\net5.0\ref\Number1To9ToText.dll
