@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ExcelentResult\bin\Debug\net5.0\ExcelentResult.exe
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ExcelentResult\bin\Debug\net5.0\ExcelentResult.deps.json
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ExcelentResult\bin\Debug\net5.0\ExcelentResult.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ExcelentResult\bin\Debug\net5.0\ExcelentResult.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ExcelentResult\bin\Debug\net5.0\ExcelentResult.dll
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ExcelentResult\bin\Debug\net5.0\ExcelentResult.pdb
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ExcelentResult\obj\Debug\net5.0\ExcelentResult.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ExcelentResult\obj\Debug\net5.0\ExcelentResult.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ExcelentResult\obj\Debug\net5.0\ExcelentResult.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ExcelentResult\obj\Debug\net5.0\ExcelentResult.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ExcelentResult\obj\Debug\net5.0\ExcelentResult.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ExcelentResult\obj\Debug\net5.0\ExcelentResult.dll
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ExcelentResult\obj\Debug\net5.0\refint\ExcelentResult.dll
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ExcelentResult\obj\Debug\net5.0\ExcelentResult.pdb
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ExcelentResult\obj\Debug\net5.0\ExcelentResult.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\ExcelentResult\obj\Debug\net5.0\ref\ExcelentResult.dll

@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\GreaterNumber\obj\Debug\net5.0\GreaterNumber.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\GreaterNumber\obj\Debug\net5.0\GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\GreaterNumber\obj\Debug\net5.0\GreaterNumber.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\GreaterNumber\obj\Debug\net5.0\GreaterNumber.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\GreaterNumber\obj\Debug\net5.0\GreaterNumber.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\GreaterNumber\bin\Debug\net5.0\GreaterNumber.exe
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\GreaterNumber\bin\Debug\net5.0\GreaterNumber.deps.json
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\GreaterNumber\bin\Debug\net5.0\GreaterNumber.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\GreaterNumber\bin\Debug\net5.0\GreaterNumber.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\GreaterNumber\bin\Debug\net5.0\GreaterNumber.dll
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\GreaterNumber\bin\Debug\net5.0\GreaterNumber.pdb
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\GreaterNumber\obj\Debug\net5.0\GreaterNumber.dll
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\GreaterNumber\obj\Debug\net5.0\refint\GreaterNumber.dll
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\GreaterNumber\obj\Debug\net5.0\GreaterNumber.pdb
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\GreaterNumber\obj\Debug\net5.0\GreaterNumber.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\07 - Lecture\ConditionalStatements\GreaterNumber\obj\Debug\net5.0\ref\GreaterNumber.dll
