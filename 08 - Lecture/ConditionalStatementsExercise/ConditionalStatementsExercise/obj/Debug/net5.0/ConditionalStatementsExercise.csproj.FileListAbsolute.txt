@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\ConditionalStatementsExercise\bin\Debug\net5.0\ConditionalStatementsExercise.exe
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\ConditionalStatementsExercise\bin\Debug\net5.0\ConditionalStatementsExercise.deps.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\ConditionalStatementsExercise\bin\Debug\net5.0\ConditionalStatementsExercise.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\ConditionalStatementsExercise\bin\Debug\net5.0\ConditionalStatementsExercise.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\ConditionalStatementsExercise\bin\Debug\net5.0\ConditionalStatementsExercise.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\ConditionalStatementsExercise\bin\Debug\net5.0\ConditionalStatementsExercise.pdb
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\ConditionalStatementsExercise\obj\Debug\net5.0\ConditionalStatementsExercise.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\ConditionalStatementsExercise\obj\Debug\net5.0\ConditionalStatementsExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\ConditionalStatementsExercise\obj\Debug\net5.0\ConditionalStatementsExercise.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\ConditionalStatementsExercise\obj\Debug\net5.0\ConditionalStatementsExercise.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\ConditionalStatementsExercise\obj\Debug\net5.0\ConditionalStatementsExercise.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\ConditionalStatementsExercise\obj\Debug\net5.0\ConditionalStatementsExercise.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\ConditionalStatementsExercise\obj\Debug\net5.0\refint\ConditionalStatementsExercise.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\ConditionalStatementsExercise\obj\Debug\net5.0\ConditionalStatementsExercise.pdb
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\ConditionalStatementsExercise\obj\Debug\net5.0\ConditionalStatementsExercise.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\ConditionalStatementsExercise\obj\Debug\net5.0\ref\ConditionalStatementsExercise.dll

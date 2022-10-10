@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\SumSeconds\obj\Debug\net5.0\SumSeconds.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\SumSeconds\obj\Debug\net5.0\SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\SumSeconds\obj\Debug\net5.0\SumSeconds.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\SumSeconds\obj\Debug\net5.0\SumSeconds.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\SumSeconds\obj\Debug\net5.0\SumSeconds.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\SumSeconds\bin\Debug\net5.0\SumSeconds.exe
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\SumSeconds\bin\Debug\net5.0\SumSeconds.deps.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\SumSeconds\bin\Debug\net5.0\SumSeconds.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\SumSeconds\bin\Debug\net5.0\SumSeconds.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\SumSeconds\bin\Debug\net5.0\SumSeconds.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\SumSeconds\bin\Debug\net5.0\SumSeconds.pdb
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\SumSeconds\obj\Debug\net5.0\SumSeconds.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\SumSeconds\obj\Debug\net5.0\refint\SumSeconds.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\SumSeconds\obj\Debug\net5.0\SumSeconds.pdb
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\SumSeconds\obj\Debug\net5.0\SumSeconds.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\SumSeconds\obj\Debug\net5.0\ref\SumSeconds.dll
