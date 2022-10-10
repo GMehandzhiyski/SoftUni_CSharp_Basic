@@ -37,23 +37,30 @@ namespace BonusScore
                 {
                     secBonus = firstBonus + 1;
                 }
-                if (number % 10 == 5)
+                else if (number % 10 == 5)
                 {
                     secBonus = firstBonus + 2;
+                }
+                else
+                {
+                    secBonus = firstBonus;
                 }
             }
             else
                 firstBonus = (number * 0.10) + number;
                 if ((number % 2) == 0)
-                 {
-                secBonus = firstBonus + 1;
-                }
-                if (number % 10 == 5)
                 {
-                secBonus = firstBonus + 2;
+                    secBonus = firstBonus + 1;
+                }
+                else if (number % 10 == 5)
+                {
+                    secBonus = firstBonus + 2;
+                }
+                else
+                {
+                    secBonus = firstBonus;
                 }
 
-            
             bonus = secBonus - number;
             
             Console.WriteLine($"{bonus}");
