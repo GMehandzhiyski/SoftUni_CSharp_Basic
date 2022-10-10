@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\MetricConverter\bin\Debug\net5.0\MetricConverter.exe
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\MetricConverter\bin\Debug\net5.0\MetricConverter.deps.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\MetricConverter\bin\Debug\net5.0\MetricConverter.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\MetricConverter\bin\Debug\net5.0\MetricConverter.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\MetricConverter\bin\Debug\net5.0\MetricConverter.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\MetricConverter\bin\Debug\net5.0\MetricConverter.pdb
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\MetricConverter\obj\Debug\net5.0\MetricConverter.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\MetricConverter\obj\Debug\net5.0\MetricConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\MetricConverter\obj\Debug\net5.0\MetricConverter.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\MetricConverter\obj\Debug\net5.0\MetricConverter.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\MetricConverter\obj\Debug\net5.0\MetricConverter.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\MetricConverter\obj\Debug\net5.0\MetricConverter.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\MetricConverter\obj\Debug\net5.0\refint\MetricConverter.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\MetricConverter\obj\Debug\net5.0\MetricConverter.pdb
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\MetricConverter\obj\Debug\net5.0\MetricConverter.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\MetricConverter\obj\Debug\net5.0\ref\MetricConverter.dll
