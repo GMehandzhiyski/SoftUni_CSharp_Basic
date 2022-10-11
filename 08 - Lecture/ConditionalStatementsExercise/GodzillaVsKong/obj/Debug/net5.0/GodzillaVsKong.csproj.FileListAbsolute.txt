@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\net5.0\GodzillaVsKong.exe
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\net5.0\GodzillaVsKong.deps.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\net5.0\GodzillaVsKong.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\net5.0\GodzillaVsKong.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\net5.0\GodzillaVsKong.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\GodzillaVsKong\bin\Debug\net5.0\GodzillaVsKong.pdb
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net5.0\refint\GodzillaVsKong.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.pdb
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net5.0\GodzillaVsKong.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\GodzillaVsKong\obj\Debug\net5.0\ref\GodzillaVsKong.dll

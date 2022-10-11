@@ -34,7 +34,7 @@ namespace Time_15Minutes
                 //minutesMeddleValue1 = minutesMeddleValue - 15;
                 if (hoursIn == 23)
                 {
-                    hoursOut = 0;
+                    hoursOut = hoursIn;
                     minutesOut = minutesMeddleValue;
                 }
                 else
