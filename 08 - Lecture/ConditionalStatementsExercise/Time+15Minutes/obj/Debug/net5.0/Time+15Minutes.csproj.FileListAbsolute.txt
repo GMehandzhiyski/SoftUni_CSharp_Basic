@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Time+15Minutes\bin\Debug\net5.0\Time+15Minutes.exe
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Time+15Minutes\bin\Debug\net5.0\Time+15Minutes.deps.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Time+15Minutes\bin\Debug\net5.0\Time+15Minutes.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Time+15Minutes\bin\Debug\net5.0\Time+15Minutes.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Time+15Minutes\bin\Debug\net5.0\Time+15Minutes.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Time+15Minutes\bin\Debug\net5.0\Time+15Minutes.pdb
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\net5.0\Time+15Minutes.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\net5.0\Time+15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\net5.0\Time+15Minutes.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\net5.0\Time+15Minutes.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\net5.0\Time+15Minutes.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\net5.0\Time+15Minutes.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\net5.0\refint\Time+15Minutes.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\net5.0\Time+15Minutes.pdb
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\net5.0\Time+15Minutes.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Time+15Minutes\obj\Debug\net5.0\ref\Time+15Minutes.dll

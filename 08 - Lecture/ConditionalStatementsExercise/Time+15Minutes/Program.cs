@@ -15,22 +15,45 @@ namespace Time_15Minutes
 
 
             minutesMeddleValue = minutesIn + 15;
+
             if (minutesMeddleValue > 59)
             {
-                minutesMeddleValue1 = minutesMeddleValue - 15;
-                if (hoursIn == 24 )
+                //minutesMeddleValue1 = minutesMeddleValue - 15;
+                if (hoursIn == 23 )
                 {
                     hoursOut = 0;
+                    minutesOut = minutesMeddleValue - minutesIn;
                 }
                 else
                     hoursOut = hoursIn + 1;
-
-            }
-            else
-            { 
+                    minutesOut = minutesMeddleValue - 60;
             
             }
+            else
+            {
+                //minutesMeddleValue1 = minutesMeddleValue - 15;
+                if (hoursIn == 23)
+                {
+                    hoursOut = 0;
+                    minutesOut = minutesMeddleValue;
+                }
+                else
+                {
+                    hoursOut = hoursIn;
+                    minutesOut = minutesMeddleValue;
+                }
+                    
+            }
 
+            if (minutesOut < 10)
+            { 
+                Console.WriteLine($"{hoursOut}:0{minutesOut}"); 
+            }
+            else
+            {
+                Console.WriteLine($"{hoursOut}:{minutesOut}");
+            }
+               
 
         }
     }
