@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetricConverter", "MetricCo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Time+15Minutes", "Time+15Minutes\Time+15Minutes.csproj", "{D4193BC4-9AAB-4235-9EE1-204BAA97DA74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodzillaVsKong", "GodzillaVsKong\GodzillaVsKong.csproj", "{03A29523-AE34-4362-BEF2-C32050AF8CD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GodzillaVsKong", "GodzillaVsKong\GodzillaVsKong.csproj", "{03A29523-AE34-4362-BEF2-C32050AF8CD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSwimmingRecord", "WordSwimmingRecord\WordSwimmingRecord.csproj", "{77354C26-5444-4923-A737-0587E9731C65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordSwimmingRecord", "WordSwimmingRecord\WordSwimmingRecord.csproj", "{77354C26-5444-4923-A737-0587E9731C65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scholarship", "Scholarship\Scholarship.csproj", "{D248329D-40DA-455F-A6DB-384A7A6C7F64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{77354C26-5444-4923-A737-0587E9731C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77354C26-5444-4923-A737-0587E9731C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77354C26-5444-4923-A737-0587E9731C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D248329D-40DA-455F-A6DB-384A7A6C7F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D248329D-40DA-455F-A6DB-384A7A6C7F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D248329D-40DA-455F-A6DB-384A7A6C7F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D248329D-40DA-455F-A6DB-384A7A6C7F64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

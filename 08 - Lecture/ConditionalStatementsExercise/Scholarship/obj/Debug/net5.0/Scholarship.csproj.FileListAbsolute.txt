@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Scholarship\bin\Debug\net5.0\Scholarship.exe
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Scholarship\bin\Debug\net5.0\Scholarship.deps.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Scholarship\bin\Debug\net5.0\Scholarship.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Scholarship\bin\Debug\net5.0\Scholarship.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Scholarship\bin\Debug\net5.0\Scholarship.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Scholarship\bin\Debug\net5.0\Scholarship.pdb
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Scholarship\obj\Debug\net5.0\Scholarship.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Scholarship\obj\Debug\net5.0\Scholarship.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Scholarship\obj\Debug\net5.0\Scholarship.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Scholarship\obj\Debug\net5.0\Scholarship.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Scholarship\obj\Debug\net5.0\Scholarship.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Scholarship\obj\Debug\net5.0\Scholarship.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Scholarship\obj\Debug\net5.0\refint\Scholarship.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Scholarship\obj\Debug\net5.0\Scholarship.pdb
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Scholarship\obj\Debug\net5.0\Scholarship.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\Scholarship\obj\Debug\net5.0\ref\Scholarship.dll

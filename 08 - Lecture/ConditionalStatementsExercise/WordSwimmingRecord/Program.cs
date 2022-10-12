@@ -19,7 +19,7 @@ namespace WordSwimmingRecord
             }
             else
             {
-                Console.WriteLine($"No, he failed! He was {timeIvan - recordTime:F2} seconds slower");
+                Console.WriteLine($"No, he failed! He was {timeIvan - recordTime:F2} seconds slower.");
             }
                
             

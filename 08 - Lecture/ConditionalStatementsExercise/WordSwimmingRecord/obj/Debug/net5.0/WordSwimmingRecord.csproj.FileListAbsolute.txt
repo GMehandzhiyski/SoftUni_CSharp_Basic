@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\WordSwimmingRecord\obj\Debug\net5.0\WordSwimmingRecord.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\WordSwimmingRecord\obj\Debug\net5.0\WordSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\WordSwimmingRecord\obj\Debug\net5.0\WordSwimmingRecord.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\WordSwimmingRecord\obj\Debug\net5.0\WordSwimmingRecord.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\WordSwimmingRecord\obj\Debug\net5.0\WordSwimmingRecord.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\WordSwimmingRecord\bin\Debug\net5.0\WordSwimmingRecord.exe
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\WordSwimmingRecord\bin\Debug\net5.0\WordSwimmingRecord.deps.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\WordSwimmingRecord\bin\Debug\net5.0\WordSwimmingRecord.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\WordSwimmingRecord\bin\Debug\net5.0\WordSwimmingRecord.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\WordSwimmingRecord\bin\Debug\net5.0\WordSwimmingRecord.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\WordSwimmingRecord\bin\Debug\net5.0\WordSwimmingRecord.pdb
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\WordSwimmingRecord\obj\Debug\net5.0\WordSwimmingRecord.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\WordSwimmingRecord\obj\Debug\net5.0\refint\WordSwimmingRecord.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\WordSwimmingRecord\obj\Debug\net5.0\WordSwimmingRecord.pdb
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\WordSwimmingRecord\obj\Debug\net5.0\WordSwimmingRecord.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsExercise\WordSwimmingRecord\obj\Debug\net5.0\ref\WordSwimmingRecord.dll
