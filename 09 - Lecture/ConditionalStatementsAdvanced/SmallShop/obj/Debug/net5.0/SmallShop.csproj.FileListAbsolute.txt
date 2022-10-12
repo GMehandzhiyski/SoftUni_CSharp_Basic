@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SmallShop\bin\Debug\net5.0\SmallShop.exe
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SmallShop\bin\Debug\net5.0\SmallShop.deps.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SmallShop\bin\Debug\net5.0\SmallShop.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SmallShop\bin\Debug\net5.0\SmallShop.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SmallShop\bin\Debug\net5.0\SmallShop.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SmallShop\bin\Debug\net5.0\SmallShop.pdb
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SmallShop\obj\Debug\net5.0\SmallShop.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SmallShop\obj\Debug\net5.0\SmallShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SmallShop\obj\Debug\net5.0\SmallShop.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SmallShop\obj\Debug\net5.0\SmallShop.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SmallShop\obj\Debug\net5.0\SmallShop.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SmallShop\obj\Debug\net5.0\SmallShop.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SmallShop\obj\Debug\net5.0\refint\SmallShop.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SmallShop\obj\Debug\net5.0\SmallShop.pdb
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SmallShop\obj\Debug\net5.0\SmallShop.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SmallShop\obj\Debug\net5.0\ref\SmallShop.dll
