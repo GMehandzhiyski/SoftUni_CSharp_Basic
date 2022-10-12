@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\charityCampaign\bin\Debug\net5.0\charityCampaign.exe
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\charityCampaign\bin\Debug\net5.0\charityCampaign.deps.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\charityCampaign\bin\Debug\net5.0\charityCampaign.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\charityCampaign\bin\Debug\net5.0\charityCampaign.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\charityCampaign\bin\Debug\net5.0\charityCampaign.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\charityCampaign\bin\Debug\net5.0\charityCampaign.pdb
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\charityCampaign\obj\Debug\net5.0\charityCampaign.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\charityCampaign\obj\Debug\net5.0\charityCampaign.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\charityCampaign\obj\Debug\net5.0\charityCampaign.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\charityCampaign\obj\Debug\net5.0\charityCampaign.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\charityCampaign\obj\Debug\net5.0\charityCampaign.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\charityCampaign\obj\Debug\net5.0\charityCampaign.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\charityCampaign\obj\Debug\net5.0\refint\charityCampaign.dll
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\charityCampaign\obj\Debug\net5.0\charityCampaign.pdb
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\charityCampaign\obj\Debug\net5.0\charityCampaign.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\06 - Lecture\SimpleOperationsAndCalculations\charityCampaign\obj\Debug\net5.0\ref\charityCampaign.dll
