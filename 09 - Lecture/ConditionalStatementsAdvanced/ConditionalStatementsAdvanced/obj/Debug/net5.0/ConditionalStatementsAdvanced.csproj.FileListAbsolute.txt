@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\net5.0\ConditionalStatementsAdvanced.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\net5.0\ConditionalStatementsAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\net5.0\ConditionalStatementsAdvanced.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\net5.0\ConditionalStatementsAdvanced.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\net5.0\ConditionalStatementsAdvanced.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\bin\Debug\net5.0\ConditionalStatementsAdvanced.exe
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\bin\Debug\net5.0\ConditionalStatementsAdvanced.deps.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\bin\Debug\net5.0\ConditionalStatementsAdvanced.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\bin\Debug\net5.0\ConditionalStatementsAdvanced.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\bin\Debug\net5.0\ConditionalStatementsAdvanced.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\bin\Debug\net5.0\ConditionalStatementsAdvanced.pdb
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\net5.0\ConditionalStatementsAdvanced.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\net5.0\refint\ConditionalStatementsAdvanced.dll
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\net5.0\ConditionalStatementsAdvanced.pdb
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\net5.0\ConditionalStatementsAdvanced.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\08 - Lecture\ConditionalStatementsAdvanced\ConditionalStatementsAdvanced\obj\Debug\net5.0\ref\ConditionalStatementsAdvanced.dll
