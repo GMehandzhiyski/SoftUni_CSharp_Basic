@@ -16,7 +16,7 @@ namespace Scholarship
             
 
 
-            if (rating > 4.50 && income < minSalary)
+            if (rating > 4.50 && income < minSalary && rating <= 6)
             {
                 scholarshipSocial = minSalary * 0.35;
                 scholarshipExcellent = (rating * 25);
