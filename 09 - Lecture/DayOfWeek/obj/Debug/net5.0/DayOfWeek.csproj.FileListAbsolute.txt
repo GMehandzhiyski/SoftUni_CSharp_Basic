@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\09 - Lecture\DayOfWeek\bin\Debug\net5.0\DayOfWeek.exe
+D:\Work_Git\CSharp_Basic\09 - Lecture\DayOfWeek\bin\Debug\net5.0\DayOfWeek.deps.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\DayOfWeek\bin\Debug\net5.0\DayOfWeek.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\DayOfWeek\bin\Debug\net5.0\DayOfWeek.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\DayOfWeek\bin\Debug\net5.0\DayOfWeek.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\DayOfWeek\bin\Debug\net5.0\DayOfWeek.pdb
+D:\Work_Git\CSharp_Basic\09 - Lecture\DayOfWeek\obj\Debug\net5.0\DayOfWeek.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\DayOfWeek\obj\Debug\net5.0\DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\09 - Lecture\DayOfWeek\obj\Debug\net5.0\DayOfWeek.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\DayOfWeek\obj\Debug\net5.0\DayOfWeek.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\09 - Lecture\DayOfWeek\obj\Debug\net5.0\DayOfWeek.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\DayOfWeek\obj\Debug\net5.0\DayOfWeek.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\DayOfWeek\obj\Debug\net5.0\refint\DayOfWeek.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\DayOfWeek\obj\Debug\net5.0\DayOfWeek.pdb
+D:\Work_Git\CSharp_Basic\09 - Lecture\DayOfWeek\obj\Debug\net5.0\DayOfWeek.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\DayOfWeek\obj\Debug\net5.0\ref\DayOfWeek.dll

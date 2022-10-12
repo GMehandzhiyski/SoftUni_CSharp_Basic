@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\09 - Lecture\AnimalType\obj\Debug\net5.0\AnimalType.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\AnimalType\obj\Debug\net5.0\AnimalType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\09 - Lecture\AnimalType\obj\Debug\net5.0\AnimalType.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\AnimalType\obj\Debug\net5.0\AnimalType.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\09 - Lecture\AnimalType\obj\Debug\net5.0\AnimalType.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\AnimalType\bin\Debug\net5.0\AnimalType.exe
+D:\Work_Git\CSharp_Basic\09 - Lecture\AnimalType\bin\Debug\net5.0\AnimalType.deps.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\AnimalType\bin\Debug\net5.0\AnimalType.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\AnimalType\bin\Debug\net5.0\AnimalType.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\AnimalType\bin\Debug\net5.0\AnimalType.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\AnimalType\bin\Debug\net5.0\AnimalType.pdb
+D:\Work_Git\CSharp_Basic\09 - Lecture\AnimalType\obj\Debug\net5.0\AnimalType.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\AnimalType\obj\Debug\net5.0\refint\AnimalType.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\AnimalType\obj\Debug\net5.0\AnimalType.pdb
+D:\Work_Git\CSharp_Basic\09 - Lecture\AnimalType\obj\Debug\net5.0\AnimalType.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\AnimalType\obj\Debug\net5.0\ref\AnimalType.dll

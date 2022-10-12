@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work_Git\\CSharp_Basic\\08 - Lecture\\ConditionalStatementsAdvanced\\ConditionalStatementsAdvanced\\ConditionalStatementsAdvanced.csproj",
+      "projectUniqueName": "D:\\Work_Git\\CSharp_Basic\\09 - Lecture\\ConditionalStatementsAdvanced\\ConditionalStatementsAdvanced\\ConditionalStatementsAdvanced.csproj",
       "projectName": "ConditionalStatementsAdvanced",
-      "projectPath": "D:\\Work_Git\\CSharp_Basic\\08 - Lecture\\ConditionalStatementsAdvanced\\ConditionalStatementsAdvanced\\ConditionalStatementsAdvanced.csproj",
+      "projectPath": "D:\\Work_Git\\CSharp_Basic\\09 - Lecture\\ConditionalStatementsAdvanced\\ConditionalStatementsAdvanced\\ConditionalStatementsAdvanced.csproj",
       "packagesPath": "C:\\Users\\bggemeh\\.nuget\\packages\\",
-      "outputPath": "D:\\Work_Git\\CSharp_Basic\\08 - Lecture\\ConditionalStatementsAdvanced\\ConditionalStatementsAdvanced\\obj\\",
+      "outputPath": "D:\\Work_Git\\CSharp_Basic\\09 - Lecture\\ConditionalStatementsAdvanced\\ConditionalStatementsAdvanced\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bggemeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
