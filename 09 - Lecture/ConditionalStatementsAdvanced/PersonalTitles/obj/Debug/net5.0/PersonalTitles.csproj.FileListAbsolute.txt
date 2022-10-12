@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\PersonalTitles\bin\Debug\net5.0\PersonalTitles.exe
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\PersonalTitles\bin\Debug\net5.0\PersonalTitles.deps.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\PersonalTitles\bin\Debug\net5.0\PersonalTitles.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\PersonalTitles\bin\Debug\net5.0\PersonalTitles.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\PersonalTitles\bin\Debug\net5.0\PersonalTitles.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\PersonalTitles\bin\Debug\net5.0\PersonalTitles.pdb
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\PersonalTitles.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\PersonalTitles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\PersonalTitles.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\PersonalTitles.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\PersonalTitles.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\PersonalTitles.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\refint\PersonalTitles.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\PersonalTitles.pdb
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\PersonalTitles.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\ref\PersonalTitles.dll
