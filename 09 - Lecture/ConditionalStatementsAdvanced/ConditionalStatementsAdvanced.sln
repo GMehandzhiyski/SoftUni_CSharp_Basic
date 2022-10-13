@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimalType", "..\AnimalType
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonalTitles", "PersonalTitles\PersonalTitles.csproj", "{6AC092E5-F98A-4948-84EA-B2F083B00DF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallShop", "SmallShop\SmallShop.csproj", "{C4474548-6D67-40D6-9DC2-AE7894E72366}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmallShop", "SmallShop\SmallShop.csproj", "{C4474548-6D67-40D6-9DC2-AE7894E72366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberInRange", "NumberInRange\NumberInRange.csproj", "{37C77316-86B5-4413-A5B6-43F2778CA4C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{C4474548-6D67-40D6-9DC2-AE7894E72366}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4474548-6D67-40D6-9DC2-AE7894E72366}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4474548-6D67-40D6-9DC2-AE7894E72366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37C77316-86B5-4413-A5B6-43F2778CA4C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C77316-86B5-4413-A5B6-43F2778CA4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C77316-86B5-4413-A5B6-43F2778CA4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C77316-86B5-4413-A5B6-43F2778CA4C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
