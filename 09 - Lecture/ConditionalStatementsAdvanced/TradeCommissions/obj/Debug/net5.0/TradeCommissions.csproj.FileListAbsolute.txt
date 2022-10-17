@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\TradeCommissions\bin\Debug\net5.0\TradeCommissions.exe
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\TradeCommissions\bin\Debug\net5.0\TradeCommissions.deps.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\TradeCommissions\bin\Debug\net5.0\TradeCommissions.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\TradeCommissions\bin\Debug\net5.0\TradeCommissions.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\TradeCommissions\bin\Debug\net5.0\TradeCommissions.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\TradeCommissions\bin\Debug\net5.0\TradeCommissions.pdb
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\TradeCommissions\obj\Debug\net5.0\TradeCommissions.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\TradeCommissions\obj\Debug\net5.0\TradeCommissions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\TradeCommissions\obj\Debug\net5.0\TradeCommissions.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\TradeCommissions\obj\Debug\net5.0\TradeCommissions.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\TradeCommissions\obj\Debug\net5.0\TradeCommissions.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\TradeCommissions\obj\Debug\net5.0\TradeCommissions.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\TradeCommissions\obj\Debug\net5.0\refint\TradeCommissions.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\TradeCommissions\obj\Debug\net5.0\TradeCommissions.pdb
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\TradeCommissions\obj\Debug\net5.0\TradeCommissions.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\TradeCommissions\obj\Debug\net5.0\ref\TradeCommissions.dll

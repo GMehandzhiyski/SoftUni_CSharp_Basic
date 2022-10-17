@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitStop\obj\Debug\net5.0\FruitStop.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitStop\obj\Debug\net5.0\FruitStop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitStop\obj\Debug\net5.0\FruitStop.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitStop\obj\Debug\net5.0\FruitStop.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitStop\obj\Debug\net5.0\FruitStop.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitStop\bin\Debug\net5.0\FruitStop.exe
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitStop\bin\Debug\net5.0\FruitStop.deps.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitStop\bin\Debug\net5.0\FruitStop.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitStop\bin\Debug\net5.0\FruitStop.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitStop\bin\Debug\net5.0\FruitStop.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitStop\bin\Debug\net5.0\FruitStop.pdb
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitStop\obj\Debug\net5.0\FruitStop.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitStop\obj\Debug\net5.0\refint\FruitStop.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitStop\obj\Debug\net5.0\FruitStop.pdb
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitStop\obj\Debug\net5.0\FruitStop.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitStop\obj\Debug\net5.0\ref\FruitStop.dll
