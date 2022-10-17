@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitOrVegetable\obj\Debug\net5.0\FruitOrVegetable.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitOrVegetable\obj\Debug\net5.0\FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitOrVegetable\obj\Debug\net5.0\FruitOrVegetable.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitOrVegetable\obj\Debug\net5.0\FruitOrVegetable.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitOrVegetable\obj\Debug\net5.0\FruitOrVegetable.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitOrVegetable\bin\Debug\net5.0\FruitOrVegetable.exe
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitOrVegetable\bin\Debug\net5.0\FruitOrVegetable.deps.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitOrVegetable\bin\Debug\net5.0\FruitOrVegetable.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitOrVegetable\bin\Debug\net5.0\FruitOrVegetable.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitOrVegetable\bin\Debug\net5.0\FruitOrVegetable.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitOrVegetable\bin\Debug\net5.0\FruitOrVegetable.pdb
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitOrVegetable\obj\Debug\net5.0\FruitOrVegetable.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitOrVegetable\obj\Debug\net5.0\refint\FruitOrVegetable.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitOrVegetable\obj\Debug\net5.0\FruitOrVegetable.pdb
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitOrVegetable\obj\Debug\net5.0\FruitOrVegetable.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\FruitOrVegetable\obj\Debug\net5.0\ref\FruitOrVegetable.dll

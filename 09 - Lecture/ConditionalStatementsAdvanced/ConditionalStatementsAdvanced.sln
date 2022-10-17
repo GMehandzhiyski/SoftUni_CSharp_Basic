@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonalTitles", "PersonalT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmallShop", "SmallShop\SmallShop.csproj", "{C4474548-6D67-40D6-9DC2-AE7894E72366}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberInRange", "NumberInRange\NumberInRange.csproj", "{37C77316-86B5-4413-A5B6-43F2778CA4C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberInRange", "NumberInRange\NumberInRange.csproj", "{37C77316-86B5-4413-A5B6-43F2778CA4C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitOrVegetable", "FruitOrVegetable\FruitOrVegetable.csproj", "{B6A5A60A-A8E3-4031-8B2E-1579DF06EB3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{37C77316-86B5-4413-A5B6-43F2778CA4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37C77316-86B5-4413-A5B6-43F2778CA4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37C77316-86B5-4413-A5B6-43F2778CA4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A5A60A-A8E3-4031-8B2E-1579DF06EB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A5A60A-A8E3-4031-8B2E-1579DF06EB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A5A60A-A8E3-4031-8B2E-1579DF06EB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A5A60A-A8E3-4031-8B2E-1579DF06EB3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

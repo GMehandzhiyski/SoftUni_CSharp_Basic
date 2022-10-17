@@ -6,7 +6,7 @@ namespace SmallShop
     {
         static void Main(string[] args)
         {
-           string product = Console.ReadLine();
+            string product = Console.ReadLine();
             string town = Console.ReadLine();
             double quantity = double.Parse(Console.ReadLine());
             double totalProductPrice = 0;
