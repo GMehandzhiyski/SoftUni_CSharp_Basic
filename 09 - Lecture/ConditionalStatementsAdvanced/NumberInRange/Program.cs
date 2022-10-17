@@ -8,7 +8,7 @@ namespace NumberInRange
         {
             double number = double.Parse(Console.ReadLine());
 
-            if ((number >= -100 || number >= 100) && number != 0)
+            if ((number >= -100 && number <= 100) && number != 0)
             {
                 Console.WriteLine("Yes");
                    
