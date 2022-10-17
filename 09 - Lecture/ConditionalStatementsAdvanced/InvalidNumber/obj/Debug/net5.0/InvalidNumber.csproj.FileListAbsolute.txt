@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\InvalidNumber\bin\Debug\net5.0\InvalidNumber.exe
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\InvalidNumber\bin\Debug\net5.0\InvalidNumber.deps.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\InvalidNumber\bin\Debug\net5.0\InvalidNumber.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\InvalidNumber\bin\Debug\net5.0\InvalidNumber.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\InvalidNumber\bin\Debug\net5.0\InvalidNumber.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\InvalidNumber\bin\Debug\net5.0\InvalidNumber.pdb
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\net5.0\InvalidNumber.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\net5.0\InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\net5.0\InvalidNumber.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\net5.0\InvalidNumber.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\net5.0\InvalidNumber.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\net5.0\InvalidNumber.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\net5.0\refint\InvalidNumber.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\net5.0\InvalidNumber.pdb
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\net5.0\InvalidNumber.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\InvalidNumber\obj\Debug\net5.0\ref\InvalidNumber.dll
