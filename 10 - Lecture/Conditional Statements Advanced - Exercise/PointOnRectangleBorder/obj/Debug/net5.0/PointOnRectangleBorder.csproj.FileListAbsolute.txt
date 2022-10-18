@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\PointOnRectangleBorder\bin\Debug\net5.0\PointOnRectangleBorder.exe
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\PointOnRectangleBorder\bin\Debug\net5.0\PointOnRectangleBorder.deps.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\PointOnRectangleBorder\bin\Debug\net5.0\PointOnRectangleBorder.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\PointOnRectangleBorder\bin\Debug\net5.0\PointOnRectangleBorder.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\PointOnRectangleBorder\bin\Debug\net5.0\PointOnRectangleBorder.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\PointOnRectangleBorder\bin\Debug\net5.0\PointOnRectangleBorder.pdb
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\PointOnRectangleBorder\obj\Debug\net5.0\PointOnRectangleBorder.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\PointOnRectangleBorder\obj\Debug\net5.0\PointOnRectangleBorder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\PointOnRectangleBorder\obj\Debug\net5.0\PointOnRectangleBorder.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\PointOnRectangleBorder\obj\Debug\net5.0\PointOnRectangleBorder.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\PointOnRectangleBorder\obj\Debug\net5.0\PointOnRectangleBorder.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\PointOnRectangleBorder\obj\Debug\net5.0\PointOnRectangleBorder.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\PointOnRectangleBorder\obj\Debug\net5.0\refint\PointOnRectangleBorder.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\PointOnRectangleBorder\obj\Debug\net5.0\PointOnRectangleBorder.pdb
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\PointOnRectangleBorder\obj\Debug\net5.0\PointOnRectangleBorder.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\PointOnRectangleBorder\obj\Debug\net5.0\ref\PointOnRectangleBorder.dll

@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\net5.0\Conditional Statements Advanced - Exercise.exe
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\net5.0\Conditional Statements Advanced - Exercise.deps.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\net5.0\Conditional Statements Advanced - Exercise.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\net5.0\Conditional Statements Advanced - Exercise.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\net5.0\Conditional Statements Advanced - Exercise.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\bin\Debug\net5.0\Conditional Statements Advanced - Exercise.pdb
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\net5.0\Conditional Statements Advanced - Exercise.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\net5.0\Conditional Statements Advanced - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\net5.0\Conditional Statements Advanced - Exercise.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\net5.0\Conditional Statements Advanced - Exercise.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\net5.0\Conditional Statements Advanced - Exercise.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\net5.0\Conditional Statements Advanced - Exercise.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\net5.0\refint\Conditional Statements Advanced - Exercise.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\net5.0\Conditional Statements Advanced - Exercise.pdb
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\net5.0\Conditional Statements Advanced - Exercise.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise\obj\Debug\net5.0\ref\Conditional Statements Advanced - Exercise.dll

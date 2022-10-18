@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Conditional_Statements_Advanced___Exercise
+namespace PointOnRectangleBorder
 {
     internal class Program
     {

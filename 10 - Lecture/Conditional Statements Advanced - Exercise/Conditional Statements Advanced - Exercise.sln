@@ -5,6 +5,10 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional Statements Advanced - Exercise", "Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise.csproj", "{07F104CA-0C85-428D-9704-90A236ED329F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointOnRectangleBorder", "PointOnRectangleBorder\PointOnRectangleBorder.csproj", "{D987930F-0856-49E9-B5A1-45A640BB74C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema", "Cinema\Cinema.csproj", "{C20CCA20-E056-4369-AF27-25652D4D91A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{07F104CA-0C85-428D-9704-90A236ED329F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07F104CA-0C85-428D-9704-90A236ED329F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07F104CA-0C85-428D-9704-90A236ED329F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D987930F-0856-49E9-B5A1-45A640BB74C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D987930F-0856-49E9-B5A1-45A640BB74C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D987930F-0856-49E9-B5A1-45A640BB74C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D987930F-0856-49E9-B5A1-45A640BB74C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C20CCA20-E056-4369-AF27-25652D4D91A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20CCA20-E056-4369-AF27-25652D4D91A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20CCA20-E056-4369-AF27-25652D4D91A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20CCA20-E056-4369-AF27-25652D4D91A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
