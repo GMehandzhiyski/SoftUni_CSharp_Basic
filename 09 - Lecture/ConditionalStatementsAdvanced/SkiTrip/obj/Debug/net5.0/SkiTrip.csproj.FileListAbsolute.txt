@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SkiTrip\obj\Debug\net5.0\SkiTrip.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SkiTrip\obj\Debug\net5.0\SkiTrip.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SkiTrip\obj\Debug\net5.0\SkiTrip.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SkiTrip\obj\Debug\net5.0\SkiTrip.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SkiTrip\obj\Debug\net5.0\SkiTrip.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SkiTrip\bin\Debug\net5.0\SkiTrip.exe
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SkiTrip\bin\Debug\net5.0\SkiTrip.deps.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SkiTrip\bin\Debug\net5.0\SkiTrip.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SkiTrip\bin\Debug\net5.0\SkiTrip.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SkiTrip\bin\Debug\net5.0\SkiTrip.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SkiTrip\bin\Debug\net5.0\SkiTrip.pdb
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SkiTrip\obj\Debug\net5.0\SkiTrip.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SkiTrip\obj\Debug\net5.0\refint\SkiTrip.dll
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SkiTrip\obj\Debug\net5.0\SkiTrip.pdb
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SkiTrip\obj\Debug\net5.0\SkiTrip.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\09 - Lecture\ConditionalStatementsAdvanced\SkiTrip\obj\Debug\net5.0\ref\SkiTrip.dll
