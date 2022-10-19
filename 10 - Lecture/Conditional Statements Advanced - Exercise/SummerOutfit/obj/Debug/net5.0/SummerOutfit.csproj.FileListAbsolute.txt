@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\SummerOutfit\obj\Debug\net5.0\SummerOutfit.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\SummerOutfit\obj\Debug\net5.0\SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\SummerOutfit\obj\Debug\net5.0\SummerOutfit.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\SummerOutfit\obj\Debug\net5.0\SummerOutfit.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\SummerOutfit\obj\Debug\net5.0\SummerOutfit.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\SummerOutfit\bin\Debug\net5.0\SummerOutfit.exe
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\SummerOutfit\bin\Debug\net5.0\SummerOutfit.deps.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\SummerOutfit\bin\Debug\net5.0\SummerOutfit.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\SummerOutfit\bin\Debug\net5.0\SummerOutfit.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\SummerOutfit\bin\Debug\net5.0\SummerOutfit.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\SummerOutfit\bin\Debug\net5.0\SummerOutfit.pdb
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\SummerOutfit\obj\Debug\net5.0\SummerOutfit.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\SummerOutfit\obj\Debug\net5.0\refint\SummerOutfit.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\SummerOutfit\obj\Debug\net5.0\SummerOutfit.pdb
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\SummerOutfit\obj\Debug\net5.0\SummerOutfit.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\SummerOutfit\obj\Debug\net5.0\ref\SummerOutfit.dll

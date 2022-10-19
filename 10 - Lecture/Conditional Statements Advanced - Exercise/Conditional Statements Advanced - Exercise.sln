@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional Statements Advanced - Exercise", "Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise.csproj", "{07F104CA-0C85-428D-9704-90A236ED329F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditional Statements Advanced - Exercise", "Conditional Statements Advanced - Exercise\Conditional Statements Advanced - Exercise.csproj", "{07F104CA-0C85-428D-9704-90A236ED329F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointOnRectangleBorder", "PointOnRectangleBorder\PointOnRectangleBorder.csproj", "{D987930F-0856-49E9-B5A1-45A640BB74C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PointOnRectangleBorder", "PointOnRectangleBorder\PointOnRectangleBorder.csproj", "{D987930F-0856-49E9-B5A1-45A640BB74C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema", "Cinema\Cinema.csproj", "{C20CCA20-E056-4369-AF27-25652D4D91A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cinema", "Cinema\Cinema.csproj", "{C20CCA20-E056-4369-AF27-25652D4D91A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummerOutfit", "SummerOutfit\SummerOutfit.csproj", "{0D3A2BF0-9DC8-4AFC-A4C9-C70CF3B76E75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SummerOutfit", "SummerOutfit\SummerOutfit.csproj", "{0D3A2BF0-9DC8-4AFC-A4C9-C70CF3B76E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewHouse", "NewHouse\NewHouse.csproj", "{6D2042F9-A3A4-46AE-812F-C4F231524574}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{0D3A2BF0-9DC8-4AFC-A4C9-C70CF3B76E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D3A2BF0-9DC8-4AFC-A4C9-C70CF3B76E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D3A2BF0-9DC8-4AFC-A4C9-C70CF3B76E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D2042F9-A3A4-46AE-812F-C4F231524574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2042F9-A3A4-46AE-812F-C4F231524574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2042F9-A3A4-46AE-812F-C4F231524574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2042F9-A3A4-46AE-812F-C4F231524574}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
