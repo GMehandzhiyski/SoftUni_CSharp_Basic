@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointOnRectangleBorder", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema", "Cinema\Cinema.csproj", "{C20CCA20-E056-4369-AF27-25652D4D91A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummerOutfit", "SummerOutfit\SummerOutfit.csproj", "{0D3A2BF0-9DC8-4AFC-A4C9-C70CF3B76E75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C20CCA20-E056-4369-AF27-25652D4D91A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C20CCA20-E056-4369-AF27-25652D4D91A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C20CCA20-E056-4369-AF27-25652D4D91A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3A2BF0-9DC8-4AFC-A4C9-C70CF3B76E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3A2BF0-9DC8-4AFC-A4C9-C70CF3B76E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3A2BF0-9DC8-4AFC-A4C9-C70CF3B76E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3A2BF0-9DC8-4AFC-A4C9-C70CF3B76E75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
