@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\FishingBoat\bin\Debug\net5.0\FishingBoat.exe
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\FishingBoat\bin\Debug\net5.0\FishingBoat.deps.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\FishingBoat\bin\Debug\net5.0\FishingBoat.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\FishingBoat\bin\Debug\net5.0\FishingBoat.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\FishingBoat\bin\Debug\net5.0\FishingBoat.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\FishingBoat\bin\Debug\net5.0\FishingBoat.pdb
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\FishingBoat\obj\Debug\net5.0\FishingBoat.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\FishingBoat\obj\Debug\net5.0\FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\FishingBoat\obj\Debug\net5.0\FishingBoat.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\FishingBoat\obj\Debug\net5.0\FishingBoat.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\FishingBoat\obj\Debug\net5.0\FishingBoat.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\FishingBoat\obj\Debug\net5.0\FishingBoat.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\FishingBoat\obj\Debug\net5.0\refint\FishingBoat.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\FishingBoat\obj\Debug\net5.0\FishingBoat.pdb
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\FishingBoat\obj\Debug\net5.0\FishingBoat.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\FishingBoat\obj\Debug\net5.0\ref\FishingBoat.dll
