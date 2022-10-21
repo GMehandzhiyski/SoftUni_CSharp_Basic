@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Journey\obj\Debug\net5.0\Journey.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Journey\obj\Debug\net5.0\Journey.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Journey\obj\Debug\net5.0\Journey.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Journey\obj\Debug\net5.0\Journey.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Journey\obj\Debug\net5.0\Journey.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Journey\bin\Debug\net5.0\Journey.exe
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Journey\bin\Debug\net5.0\Journey.deps.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Journey\bin\Debug\net5.0\Journey.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Journey\bin\Debug\net5.0\Journey.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Journey\bin\Debug\net5.0\Journey.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Journey\bin\Debug\net5.0\Journey.pdb
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Journey\obj\Debug\net5.0\Journey.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Journey\obj\Debug\net5.0\refint\Journey.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Journey\obj\Debug\net5.0\Journey.pdb
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Journey\obj\Debug\net5.0\Journey.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Journey\obj\Debug\net5.0\ref\Journey.dll

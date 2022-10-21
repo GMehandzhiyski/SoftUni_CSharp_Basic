@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cinema", "Cinema\Cinema.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SummerOutfit", "SummerOutfit\SummerOutfit.csproj", "{0D3A2BF0-9DC8-4AFC-A4C9-C70CF3B76E75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewHouse", "NewHouse\NewHouse.csproj", "{6D2042F9-A3A4-46AE-812F-C4F231524574}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewHouse", "NewHouse\NewHouse.csproj", "{6D2042F9-A3A4-46AE-812F-C4F231524574}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishingBoat", "FishingBoat\FishingBoat.csproj", "{A0746B20-5E2B-4933-8EBA-792C9ED8C67D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FishingBoat", "FishingBoat\FishingBoat.csproj", "{A0746B20-5E2B-4933-8EBA-792C9ED8C67D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Journey", "Journey\Journey.csproj", "{A8194378-D7B8-409B-A3FA-D2EEC5933814}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{A0746B20-5E2B-4933-8EBA-792C9ED8C67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0746B20-5E2B-4933-8EBA-792C9ED8C67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0746B20-5E2B-4933-8EBA-792C9ED8C67D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8194378-D7B8-409B-A3FA-D2EEC5933814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8194378-D7B8-409B-A3FA-D2EEC5933814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8194378-D7B8-409B-A3FA-D2EEC5933814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8194378-D7B8-409B-A3FA-D2EEC5933814}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
