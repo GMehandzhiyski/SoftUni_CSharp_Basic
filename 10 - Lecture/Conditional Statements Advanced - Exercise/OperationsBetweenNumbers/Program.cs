@@ -8,8 +8,8 @@ namespace OperationsBetweenNumbers
         static void Main(string[] args)
         {
             //Input
-            double number1 = int.Parse(Console.ReadLine());
-            double number2 = int.Parse(Console.ReadLine());
+            double number1 = double.Parse(Console.ReadLine());
+            double number2 = double.Parse(Console.ReadLine());
             string operatorr = Console.ReadLine();
 
             //values
