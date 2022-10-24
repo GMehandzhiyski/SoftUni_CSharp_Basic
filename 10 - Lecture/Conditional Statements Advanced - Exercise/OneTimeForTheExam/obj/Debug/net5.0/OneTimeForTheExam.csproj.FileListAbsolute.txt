@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\OneTimeForTheExam\bin\Debug\net5.0\OneTimeForTheExam.exe
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\OneTimeForTheExam\bin\Debug\net5.0\OneTimeForTheExam.deps.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\OneTimeForTheExam\bin\Debug\net5.0\OneTimeForTheExam.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\OneTimeForTheExam\bin\Debug\net5.0\OneTimeForTheExam.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\OneTimeForTheExam\bin\Debug\net5.0\OneTimeForTheExam.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\OneTimeForTheExam\bin\Debug\net5.0\OneTimeForTheExam.pdb
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\OneTimeForTheExam\obj\Debug\net5.0\OneTimeForTheExam.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\OneTimeForTheExam\obj\Debug\net5.0\OneTimeForTheExam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\OneTimeForTheExam\obj\Debug\net5.0\OneTimeForTheExam.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\OneTimeForTheExam\obj\Debug\net5.0\OneTimeForTheExam.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\OneTimeForTheExam\obj\Debug\net5.0\OneTimeForTheExam.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\OneTimeForTheExam\obj\Debug\net5.0\OneTimeForTheExam.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\OneTimeForTheExam\obj\Debug\net5.0\refint\OneTimeForTheExam.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\OneTimeForTheExam\obj\Debug\net5.0\OneTimeForTheExam.pdb
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\OneTimeForTheExam\obj\Debug\net5.0\OneTimeForTheExam.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\OneTimeForTheExam\obj\Debug\net5.0\ref\OneTimeForTheExam.dll
