@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewHouse", "NewHouse\NewHou
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FishingBoat", "FishingBoat\FishingBoat.csproj", "{A0746B20-5E2B-4933-8EBA-792C9ED8C67D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Journey", "Journey\Journey.csproj", "{A8194378-D7B8-409B-A3FA-D2EEC5933814}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Journey", "Journey\Journey.csproj", "{A8194378-D7B8-409B-A3FA-D2EEC5933814}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationsBetweenNumbers", "OperationsBetweenNumbers\OperationsBetweenNumbers.csproj", "{1B8F4677-B3EA-4EAD-98C0-BFEAF6E9DE36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperationsBetweenNumbers", "OperationsBetweenNumbers\OperationsBetweenNumbers.csproj", "{1B8F4677-B3EA-4EAD-98C0-BFEAF6E9DE36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelRoom", "HotelRoom\HotelRoom.csproj", "{5ABA6B06-9B49-40E0-BEB4-7155B1A03D99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{1B8F4677-B3EA-4EAD-98C0-BFEAF6E9DE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B8F4677-B3EA-4EAD-98C0-BFEAF6E9DE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B8F4677-B3EA-4EAD-98C0-BFEAF6E9DE36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ABA6B06-9B49-40E0-BEB4-7155B1A03D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ABA6B06-9B49-40E0-BEB4-7155B1A03D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ABA6B06-9B49-40E0-BEB4-7155B1A03D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ABA6B06-9B49-40E0-BEB4-7155B1A03D99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

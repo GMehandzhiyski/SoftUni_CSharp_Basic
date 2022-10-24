@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\HotelRoom\obj\Debug\net5.0\HotelRoom.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\HotelRoom\obj\Debug\net5.0\HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\HotelRoom\obj\Debug\net5.0\HotelRoom.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\HotelRoom\obj\Debug\net5.0\HotelRoom.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\HotelRoom\obj\Debug\net5.0\HotelRoom.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\HotelRoom\bin\Debug\net5.0\HotelRoom.exe
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\HotelRoom\bin\Debug\net5.0\HotelRoom.deps.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\HotelRoom\bin\Debug\net5.0\HotelRoom.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\HotelRoom\bin\Debug\net5.0\HotelRoom.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\HotelRoom\bin\Debug\net5.0\HotelRoom.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\HotelRoom\bin\Debug\net5.0\HotelRoom.pdb
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\HotelRoom\obj\Debug\net5.0\HotelRoom.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\HotelRoom\obj\Debug\net5.0\refint\HotelRoom.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\HotelRoom\obj\Debug\net5.0\HotelRoom.pdb
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\HotelRoom\obj\Debug\net5.0\HotelRoom.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\HotelRoom\obj\Debug\net5.0\ref\HotelRoom.dll
