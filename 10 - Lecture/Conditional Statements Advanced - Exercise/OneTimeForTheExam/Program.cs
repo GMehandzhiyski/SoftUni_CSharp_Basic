@@ -7,47 +7,80 @@ namespace OneTimeForTheExam
         static void Main(string[] args)
         {
             //input
-            int hourForExam = int.Parse(Console.ReadLine());
-            int minuteForExam = int.Parse(Console.ReadLine());  
-            int arrivalhour = int.Parse(Console.ReadLine());
-            int arrivalminute = int.Parse(Console.ReadLine());
+            double hourForExam = double.Parse(Console.ReadLine());
+            double minuteForExam = double.Parse(Console.ReadLine());  
+            double arrivalhour = double.Parse(Console.ReadLine());
+            double arrivalminute = double.Parse(Console.ReadLine());
 
-            int examTimeInMin = 0;
-            int arrivalTimeInMin = 0;
-            int examTimeInMinMinus = 0;
-            string status = "";
+            double examTimeInMin = 0;
+            double arrivalTimeInMin = 0;
+            double examTimeInMinMinus = 0;
+        
 
 
 
             examTimeInMin = (hourForExam * 60) + minuteForExam;
             arrivalTimeInMin = (arrivalhour * 60) + arrivalminute;
 
-            examTimeInMinMinus = examTimeInMin - arrivalTimeInMin;// time minus 30 
-
+            examTimeInMinMinus = Math.Abs(examTimeInMin - arrivalTimeInMin);// time minus 30 
 
             if (examTimeInMin == arrivalTimeInMin) // the same time
             {
-                status = "On time";
+               
+                Console.WriteLine($"On Time");
             }
             else if (examTimeInMinMinus >= 1 && examTimeInMinMinus <= 30)// to 30min before
             {
                 Console.WriteLine($"On Time");
                 Console.WriteLine($"{examTimeInMinMinus} minutes before the start");
             }
-            else if (examTimeInMin < arrivalTimeInMin)
+            else if (examTimeInMin < arrivalTimeInMin)//late
             {
-                status = "Late";
+                Console.WriteLine($"Late");
+                if (examTimeInMinMinus < 60)
+                {
+                    Console.WriteLine($"{examTimeInMinMinus} minutes after the start ");
+
+                }
+                else if (examTimeInMinMinus >= 59)
+                {
+                    if ((examTimeInMinMinus % 60) < 10)
+                    {
+                        Console.WriteLine($"{Math.Floor(examTimeInMinMinus / 60)}:0{examTimeInMinMinus % 60} hours after the start");
+                    }
+                    else if ((examTimeInMinMinus % 60) >= 10)
+                    {
+                        Console.WriteLine($"{Math.Floor(examTimeInMinMinus / 60)}:{examTimeInMinMinus % 60} hours after the start");
+                    }
+                   
+                }
             }
-            else if (examTimeInMinMinus > 30)
+            else if (examTimeInMinMinus > 30)// early
             {
                 Console.WriteLine($"Early");
-                Console.WriteLine($"{} hours before the start");
+                if (examTimeInMinMinus <= 59)
+                {
+                    Console.WriteLine($"{examTimeInMinMinus} minutes before the start");
+                }
+                else if (examTimeInMinMinus >= 60)
+                {
+                    if ((examTimeInMinMinus % 60) < 10)
+                    {
+                        Console.WriteLine($"{Math.Floor(examTimeInMinMinus / 60)}:0{examTimeInMinMinus % 60} hours before the start");
+                    }
+                    else if ((examTimeInMinMinus % 60) >= 10)
+                    {
+                        Console.WriteLine($"{Math.Floor(examTimeInMinMinus / 60)}:{examTimeInMinMinus % 60} hours before the start");
+                    }
+
+                }
+                
             }
 
-
-
-
             
+
+
+
         }
     }
 }
