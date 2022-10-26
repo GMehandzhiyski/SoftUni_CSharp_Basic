@@ -29,7 +29,7 @@ namespace OneTimeForTheExam
                
                 Console.WriteLine($"On Time");
             }
-            else if (examTimeInMinMinus >= 1 && examTimeInMinMinus <= 30)// to 30min before
+            else if (examTimeInMinMinus >= 1 && examTimeInMinMinus <= 30 && examTimeInMin > arrivalTimeInMin)// to 30min before
             {
                 Console.WriteLine($"On Time");
                 Console.WriteLine($"{examTimeInMinMinus} minutes before the start");

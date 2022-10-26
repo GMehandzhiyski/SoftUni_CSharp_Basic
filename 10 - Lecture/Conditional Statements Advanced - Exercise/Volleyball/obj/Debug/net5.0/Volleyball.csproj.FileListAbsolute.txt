@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Volleyball\bin\Debug\net5.0\Volleyball.exe
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Volleyball\bin\Debug\net5.0\Volleyball.deps.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Volleyball\bin\Debug\net5.0\Volleyball.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Volleyball\bin\Debug\net5.0\Volleyball.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Volleyball\bin\Debug\net5.0\Volleyball.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Volleyball\bin\Debug\net5.0\Volleyball.pdb
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Volleyball\obj\Debug\net5.0\Volleyball.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Volleyball\obj\Debug\net5.0\Volleyball.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Volleyball\obj\Debug\net5.0\Volleyball.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Volleyball\obj\Debug\net5.0\Volleyball.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Volleyball\obj\Debug\net5.0\Volleyball.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Volleyball\obj\Debug\net5.0\Volleyball.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Volleyball\obj\Debug\net5.0\refint\Volleyball.dll
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Volleyball\obj\Debug\net5.0\Volleyball.pdb
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Volleyball\obj\Debug\net5.0\Volleyball.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\10 - Lecture\Conditional Statements Advanced - Exercise\Volleyball\obj\Debug\net5.0\ref\Volleyball.dll
