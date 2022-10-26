@@ -18,7 +18,7 @@ namespace Volleyball
             double totalGames = 0;
 
             saturdayGames = (48 - weekend) * 0.75;//play voley in Sofia
-            hollidayGames = holliday * (0.6666);//play voley in BornTown
+            hollidayGames = holliday * (0.666666667);//play voley in BornTown
 
             midleGames = saturdayGames + hollidayGames + weekend;
 
