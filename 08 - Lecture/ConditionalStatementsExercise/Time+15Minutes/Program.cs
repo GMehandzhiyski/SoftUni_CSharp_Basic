@@ -19,15 +19,16 @@ namespace Time_15Minutes
             if (minutesMeddleValue > 59)
             {
                 //minutesMeddleValue1 = minutesMeddleValue - 15;
-                if (hoursIn == 23 )
+                if (hoursIn == 23)
                 {
                     hoursOut = 0;
                     minutesOut = minutesMeddleValue - minutesIn;
                 }
                 else
+                {
                     hoursOut = hoursIn + 1;
                     minutesOut = minutesMeddleValue - 60;
-            
+                }
             }
             else
             {
