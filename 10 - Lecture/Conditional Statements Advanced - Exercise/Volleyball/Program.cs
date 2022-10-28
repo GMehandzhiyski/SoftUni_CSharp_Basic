@@ -30,7 +30,8 @@ namespace Volleyball
             {
                 totalGames = midleGames;
             }
-
+            
+            //Output
             Console.WriteLine($"{Math.Floor(totalGames)}");
 
         }
