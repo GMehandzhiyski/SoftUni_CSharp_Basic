@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsPart2", "LoopsPart2\LoopsPart2.csproj", "{CA0AFA4C-803D-4301-9FAA-889181BBA1FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopsPart2", "LoopsPart2\LoopsPart2.csproj", "{CA0AFA4C-803D-4301-9FAA-889181BBA1FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberInRange", "ReadText\NumberInRange.csproj", "{CEE3FD54-7A2B-46C0-887D-A23F7D52C582}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CA0AFA4C-803D-4301-9FAA-889181BBA1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA0AFA4C-803D-4301-9FAA-889181BBA1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA0AFA4C-803D-4301-9FAA-889181BBA1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE3FD54-7A2B-46C0-887D-A23F7D52C582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE3FD54-7A2B-46C0-887D-A23F7D52C582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE3FD54-7A2B-46C0-887D-A23F7D52C582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE3FD54-7A2B-46C0-887D-A23F7D52C582}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
