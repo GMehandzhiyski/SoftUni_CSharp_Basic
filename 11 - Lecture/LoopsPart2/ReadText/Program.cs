@@ -10,7 +10,7 @@ namespace ReadText
 
             while (num < 1 || num > 100)
             {
-                Console.WriteLine("Invalid number");
+                Console.WriteLine("Invalid number!");
                 num = int.Parse(Console.ReadLine());
 
             }
