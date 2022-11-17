@@ -16,11 +16,7 @@ namespace AccountBalance
                 while (whileCout < transactionNumber)
                 {
                     moneySum = int.Parse(Console.ReadLine());
-                    /*
-                    Console.WriteLine($"Increase:{moneySum}");
-                    */
                     totalSum = totalSum + moneySum;
-                    
                     whileCout = whileCout + 1;
                 }
 
@@ -33,7 +29,9 @@ namespace AccountBalance
             {
                 Console.WriteLine("Invalid operation!");
             }
-
+            /*
+                    Console.WriteLine($"Increase:{moneySum}");
+                    */
         }
     }
 }
