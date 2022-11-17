@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\AccountBalance\obj\Debug\net5.0\AccountBalance.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\AccountBalance\obj\Debug\net5.0\AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\AccountBalance\obj\Debug\net5.0\AccountBalance.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\AccountBalance\obj\Debug\net5.0\AccountBalance.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\AccountBalance\obj\Debug\net5.0\AccountBalance.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\AccountBalance\bin\Debug\net5.0\AccountBalance.exe
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\AccountBalance\bin\Debug\net5.0\AccountBalance.deps.json
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\AccountBalance\bin\Debug\net5.0\AccountBalance.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\AccountBalance\bin\Debug\net5.0\AccountBalance.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\AccountBalance\bin\Debug\net5.0\AccountBalance.dll
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\AccountBalance\bin\Debug\net5.0\AccountBalance.pdb
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\AccountBalance\obj\Debug\net5.0\AccountBalance.dll
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\AccountBalance\obj\Debug\net5.0\refint\AccountBalance.dll
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\AccountBalance\obj\Debug\net5.0\AccountBalance.pdb
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\AccountBalance\obj\Debug\net5.0\AccountBalance.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\AccountBalance\obj\Debug\net5.0\ref\AccountBalance.dll
