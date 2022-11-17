@@ -15,23 +15,34 @@ namespace AccountBalance
             {
                 while (whileCout < transactionNumber)
                 {
-                    moneySum = int.Parse(Console.ReadLine());
+                    moneySum = double.Parse(Console.ReadLine());
+                    if (moneySum < 0)
+                    {
+                        Console.WriteLine("Invalid operation!");
+                        Console.WriteLine($"Total: {totalSum:f2}");
+                        break;
+                    }
                     totalSum = totalSum + moneySum;
+                    Console.WriteLine($"Increase: {moneySum:f2}");
                     whileCout = whileCout + 1;
+                   
                 }
+
+                
+                
 
                 if (whileCout >= transactionNumber)
                 {
-                    Console.WriteLine($"Total:{totalSum}");
+                    Console.WriteLine($"Total: {totalSum:f2}");
                 }
             }
             else
             {
                 Console.WriteLine("Invalid operation!");
             }
-            /*
-                    Console.WriteLine($"Increase:{moneySum}");
-                    */
+            
+                   
+                    
         }
     }
 }
