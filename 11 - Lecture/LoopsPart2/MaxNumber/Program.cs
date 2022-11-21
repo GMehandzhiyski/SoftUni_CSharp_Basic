@@ -9,13 +9,24 @@ namespace MaxNumber
             int value = Int32.MinValue;
             int number = int.Parse(Console.ReadLine());
             int cycles = 0;
+            int valueAdd = 0;
 
 
-            while ( number >= cycles)
+            while ( number > cycles)
             {
+                valueAdd = int.Parse(Console.ReadLine());
 
-                Console.WriteLine("cycle");
+                if (value < valueAdd)
+                { 
+                value = valueAdd;
+                }
+
                 cycles++;
+            }
+
+            if (number == cycles)
+            {
+                Console.WriteLine(value);
             }
         }
     }
