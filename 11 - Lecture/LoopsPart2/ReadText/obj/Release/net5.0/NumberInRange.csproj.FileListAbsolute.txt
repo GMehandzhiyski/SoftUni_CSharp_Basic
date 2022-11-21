@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\ReadText\bin\Release\net5.0\NumberInRange.exe
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\ReadText\bin\Release\net5.0\NumberInRange.deps.json
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\ReadText\bin\Release\net5.0\NumberInRange.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\ReadText\bin\Release\net5.0\NumberInRange.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\ReadText\bin\Release\net5.0\NumberInRange.dll
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\ReadText\bin\Release\net5.0\NumberInRange.pdb
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\ReadText\obj\Release\net5.0\NumberInRange.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\ReadText\obj\Release\net5.0\NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\ReadText\obj\Release\net5.0\NumberInRange.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\ReadText\obj\Release\net5.0\NumberInRange.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\ReadText\obj\Release\net5.0\NumberInRange.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\ReadText\obj\Release\net5.0\NumberInRange.dll
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\ReadText\obj\Release\net5.0\refint\NumberInRange.dll
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\ReadText\obj\Release\net5.0\NumberInRange.pdb
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\ReadText\obj\Release\net5.0\NumberInRange.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\ReadText\obj\Release\net5.0\ref\NumberInRange.dll

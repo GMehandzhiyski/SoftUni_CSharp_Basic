@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\MinNumber\bin\Release\net5.0\MinNumber.exe
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\MinNumber\bin\Release\net5.0\MinNumber.deps.json
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\MinNumber\bin\Release\net5.0\MinNumber.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\MinNumber\bin\Release\net5.0\MinNumber.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\MinNumber\bin\Release\net5.0\MinNumber.dll
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\MinNumber\bin\Release\net5.0\MinNumber.pdb
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\MinNumber\obj\Release\net5.0\MinNumber.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\MinNumber\obj\Release\net5.0\MinNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\MinNumber\obj\Release\net5.0\MinNumber.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\MinNumber\obj\Release\net5.0\MinNumber.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\MinNumber\obj\Release\net5.0\MinNumber.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\MinNumber\obj\Release\net5.0\MinNumber.dll
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\MinNumber\obj\Release\net5.0\refint\MinNumber.dll
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\MinNumber\obj\Release\net5.0\MinNumber.pdb
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\MinNumber\obj\Release\net5.0\MinNumber.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\MinNumber\obj\Release\net5.0\ref\MinNumber.dll

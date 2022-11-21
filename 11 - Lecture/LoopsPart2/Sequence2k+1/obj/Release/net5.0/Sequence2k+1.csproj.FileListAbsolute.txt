@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Sequence2k+1\bin\Release\net5.0\Sequence2k+1.exe
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Sequence2k+1\bin\Release\net5.0\Sequence2k+1.deps.json
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Sequence2k+1\bin\Release\net5.0\Sequence2k+1.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Sequence2k+1\bin\Release\net5.0\Sequence2k+1.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Sequence2k+1\bin\Release\net5.0\Sequence2k+1.dll
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Sequence2k+1\bin\Release\net5.0\Sequence2k+1.pdb
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Sequence2k+1\obj\Release\net5.0\Sequence2k+1.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Sequence2k+1\obj\Release\net5.0\Sequence2k+1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Sequence2k+1\obj\Release\net5.0\Sequence2k+1.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Sequence2k+1\obj\Release\net5.0\Sequence2k+1.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Sequence2k+1\obj\Release\net5.0\Sequence2k+1.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Sequence2k+1\obj\Release\net5.0\Sequence2k+1.dll
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Sequence2k+1\obj\Release\net5.0\refint\Sequence2k+1.dll
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Sequence2k+1\obj\Release\net5.0\Sequence2k+1.pdb
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Sequence2k+1\obj\Release\net5.0\Sequence2k+1.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Sequence2k+1\obj\Release\net5.0\ref\Sequence2k+1.dll
