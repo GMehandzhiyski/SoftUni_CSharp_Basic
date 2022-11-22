@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Graduation", "Graduation\Gr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraduationPt.2", "GraduationPt.2\GraduationPt.2.csproj", "{500198DE-6D7D-41EE-BA5F-2356C3A7FDB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moving", "Moving\Moving.csproj", "{6D832B6C-C39F-4612-A32C-EA4A7C0681ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{500198DE-6D7D-41EE-BA5F-2356C3A7FDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{500198DE-6D7D-41EE-BA5F-2356C3A7FDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{500198DE-6D7D-41EE-BA5F-2356C3A7FDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D832B6C-C39F-4612-A32C-EA4A7C0681ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D832B6C-C39F-4612-A32C-EA4A7C0681ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D832B6C-C39F-4612-A32C-EA4A7C0681ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D832B6C-C39F-4612-A32C-EA4A7C0681ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Moving\bin\Debug\net5.0\Moving.exe
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Moving\bin\Debug\net5.0\Moving.deps.json
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Moving\bin\Debug\net5.0\Moving.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Moving\bin\Debug\net5.0\Moving.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Moving\bin\Debug\net5.0\Moving.dll
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Moving\bin\Debug\net5.0\Moving.pdb
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Moving\obj\Debug\net5.0\Moving.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Moving\obj\Debug\net5.0\Moving.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Moving\obj\Debug\net5.0\Moving.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Moving\obj\Debug\net5.0\Moving.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Moving\obj\Debug\net5.0\Moving.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Moving\obj\Debug\net5.0\Moving.dll
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Moving\obj\Debug\net5.0\refint\Moving.dll
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Moving\obj\Debug\net5.0\Moving.pdb
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Moving\obj\Debug\net5.0\Moving.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Moving\obj\Debug\net5.0\ref\Moving.dll

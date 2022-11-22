@@ -42,7 +42,7 @@ namespace GraduationPt._2
             if (faulty >= 2)
             {
                 
-                Console.WriteLine($"{name} has been excluded at {cycleCount} grade");
+                Console.WriteLine($"{name} has been excluded at {cycleCount - 1} grade");
             }
         }
     }
