@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Graduation\obj\Debug\net5.0\Graduation.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Graduation\obj\Debug\net5.0\Graduation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Graduation\obj\Debug\net5.0\Graduation.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Graduation\obj\Debug\net5.0\Graduation.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Graduation\obj\Debug\net5.0\Graduation.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Graduation\bin\Debug\net5.0\Graduation.exe
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Graduation\bin\Debug\net5.0\Graduation.deps.json
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Graduation\bin\Debug\net5.0\Graduation.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Graduation\bin\Debug\net5.0\Graduation.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Graduation\bin\Debug\net5.0\Graduation.dll
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Graduation\bin\Debug\net5.0\Graduation.pdb
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Graduation\obj\Debug\net5.0\Graduation.dll
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Graduation\obj\Debug\net5.0\refint\Graduation.dll
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Graduation\obj\Debug\net5.0\Graduation.pdb
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Graduation\obj\Debug\net5.0\Graduation.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\11 - Lecture\LoopsPart2\Graduation\obj\Debug\net5.0\ref\Graduation.dll

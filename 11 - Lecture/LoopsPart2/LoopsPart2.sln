@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sequence2k+1", "Sequence2k+
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountBalance", "AccountBalance\AccountBalance.csproj", "{D4F065DA-6099-4A2F-BC60-712766891564}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxNumber", "MaxNumber\MaxNumber.csproj", "{7A7871E2-E0BC-446D-A2C1-071F9598235B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxNumber", "MaxNumber\MaxNumber.csproj", "{7A7871E2-E0BC-446D-A2C1-071F9598235B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinNumber", "MinNumber\MinNumber.csproj", "{C8DBDED2-20B2-47C0-9752-544F8BCFF498}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinNumber", "MinNumber\MinNumber.csproj", "{C8DBDED2-20B2-47C0-9752-544F8BCFF498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graduation", "Graduation\Graduation.csproj", "{E33204B0-46EB-4680-A763-915C8B21224C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{C8DBDED2-20B2-47C0-9752-544F8BCFF498}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8DBDED2-20B2-47C0-9752-544F8BCFF498}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8DBDED2-20B2-47C0-9752-544F8BCFF498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E33204B0-46EB-4680-A763-915C8B21224C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33204B0-46EB-4680-A763-915C8B21224C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33204B0-46EB-4680-A763-915C8B21224C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33204B0-46EB-4680-A763-915C8B21224C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
