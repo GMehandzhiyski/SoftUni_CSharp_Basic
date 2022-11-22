@@ -25,15 +25,16 @@ namespace Graduation
 
             if (cycleWhile == cycleCount)
             {
-                if (finalGrade >= 4.00)
+                if ((finalGrade/12) >= 4)
                 {
-                    Console.WriteLine($"{name} graduated. Average grade: {finalGrade/12:f2}");
+                    Console.WriteLine($"{name} graduated. Average grade: {finalGrade / 12:f2}");
                 }
-              /*  else
-                { 
-                    Console.WriteLine($"{name} not graduated. Averade grade: {finalGrade:f2}");
+              else
+                {
+                    
+                    
                 }
-               */    
+                  
 
             }
         }
