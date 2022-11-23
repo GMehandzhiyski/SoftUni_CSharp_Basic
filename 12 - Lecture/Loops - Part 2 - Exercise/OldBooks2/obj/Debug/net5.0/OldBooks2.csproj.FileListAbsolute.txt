@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\OldBooks2\bin\Debug\net5.0\OldBooks2.exe
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\OldBooks2\bin\Debug\net5.0\OldBooks2.deps.json
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\OldBooks2\bin\Debug\net5.0\OldBooks2.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\OldBooks2\bin\Debug\net5.0\OldBooks2.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\OldBooks2\bin\Debug\net5.0\OldBooks2.dll
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\OldBooks2\bin\Debug\net5.0\OldBooks2.pdb
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\OldBooks2\obj\Debug\net5.0\OldBooks2.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\OldBooks2\obj\Debug\net5.0\OldBooks2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\OldBooks2\obj\Debug\net5.0\OldBooks2.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\OldBooks2\obj\Debug\net5.0\OldBooks2.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\OldBooks2\obj\Debug\net5.0\OldBooks2.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\OldBooks2\obj\Debug\net5.0\OldBooks2.dll
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\OldBooks2\obj\Debug\net5.0\refint\OldBooks2.dll
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\OldBooks2\obj\Debug\net5.0\OldBooks2.pdb
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\OldBooks2\obj\Debug\net5.0\OldBooks2.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\OldBooks2\obj\Debug\net5.0\ref\OldBooks2.dll
