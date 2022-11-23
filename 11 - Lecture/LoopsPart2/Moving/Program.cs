@@ -12,7 +12,6 @@ namespace Moving
             int height = int.Parse(Console.ReadLine());
             int roomArea = 0;
             int boxArea =0 ;
-           //bool stopCycle;
            
             roomArea = width * length * height;
 
@@ -23,38 +22,21 @@ namespace Moving
                 int boxDimension =int.Parse(command);
                 boxArea = boxDimension + boxArea;
 
+                if (boxArea > roomArea)
+                {
+                    double missingArea = Math.Abs(roomArea - boxArea);
+                    Console.WriteLine($"No more free space! You need {missingArea} Cubic meters more.");
+
+                }
+
                 command = Console.ReadLine();
             }
             if (command == "Done")
             {
-                Console.WriteLine(" Cubic meters left.");
+               double residue = roomArea - boxArea;
+                Console.WriteLine($"{residue} Cubic meters left.");
             }
-            /*
-            int width = int.Parse(Console.ReadLine());
-            int length = int.Parse(Console.ReadLine());
-            int hight = int.Parse(Console.ReadLine());
-            int freespace = width * length * hight;
-            int totalSpace = 0;
-            int spaceDiff = 0;
-            string command = Console.ReadLine();
-
-            while (command != "Done")
-            {
-                int cartoonSpace = int.Parse(command);
-
-                totalSpace = totalSpace + cartoonSpace;
-                spaceDiff = Math.Abs(totalSpace - freespace);
-                if (totalSpace >= freespace)
-                    Console.WriteLine("No more free space!You need {0} Cubic meters more.", spaceDiff);
-
-                command = Console.ReadLine();
-
-            }
-            if (command == "Done")
-            {
-                Console.WriteLine("{0} Cubic meters left.", spaceDiff);
-            }
-            */
+            
         }
     }
 }
