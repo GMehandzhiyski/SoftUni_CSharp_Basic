@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops - Part 2 - Exercise", "Loops - Part 2 - Exercise\Loops - Part 2 - Exercise.csproj", "{EB5B3AD1-83D4-4620-A98D-21448EA4F6DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldBooks", "OldBooks\OldBooks.csproj", "{46950DAC-97F5-42A0-BA9A-8EFF6B3F8BDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5B3AD1-83D4-4620-A98D-21448EA4F6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5B3AD1-83D4-4620-A98D-21448EA4F6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5B3AD1-83D4-4620-A98D-21448EA4F6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5B3AD1-83D4-4620-A98D-21448EA4F6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46950DAC-97F5-42A0-BA9A-8EFF6B3F8BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46950DAC-97F5-42A0-BA9A-8EFF6B3F8BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46950DAC-97F5-42A0-BA9A-8EFF6B3F8BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46950DAC-97F5-42A0-BA9A-8EFF6B3F8BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AC0F5C8-DCAF-4C4B-A3EA-858664707937}
+	EndGlobalSection
+EndGlobal
