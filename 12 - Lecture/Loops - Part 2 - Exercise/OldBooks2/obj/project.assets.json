@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work_Git\\CSharp_Basic\\12 - Lecture\\Loops - Part 2 - Exercise\\OldBooks2\\OldBooks2.csproj",
-      "projectName": "OldBooks2",
-      "projectPath": "D:\\Work_Git\\CSharp_Basic\\12 - Lecture\\Loops - Part 2 - Exercise\\OldBooks2\\OldBooks2.csproj",
+      "projectUniqueName": "D:\\Work_Git\\CSharp_Basic\\12 - Lecture\\Loops - Part 2 - Exercise\\OldBooks2\\OldBooks.csproj",
+      "projectName": "OldBooks",
+      "projectPath": "D:\\Work_Git\\CSharp_Basic\\12 - Lecture\\Loops - Part 2 - Exercise\\OldBooks2\\OldBooks.csproj",
       "packagesPath": "C:\\Users\\bggemeh\\.nuget\\packages\\",
       "outputPath": "D:\\Work_Git\\CSharp_Basic\\12 - Lecture\\Loops - Part 2 - Exercise\\OldBooks2\\obj\\",
       "projectStyle": "PackageReference",
