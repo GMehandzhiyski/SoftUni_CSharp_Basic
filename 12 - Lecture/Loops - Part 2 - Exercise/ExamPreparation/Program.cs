@@ -14,11 +14,11 @@ namespace ExamPreparation
             double averageGrade = 0;
 
 
-            while((nameEx = Console.ReadLine()) != "Enough") 
+            while ((nameEx = Console.ReadLine()) != "Enough")
             {
                 grade = int.Parse(Console.ReadLine());
                 whileCount++;
-                averageGrade = (grade + averageGrade)/whileCount;
+                averageGrade = (grade + averageGrade);
 
                 if (grade <= 4.00)
                 {
@@ -30,18 +30,18 @@ namespace ExamPreparation
                     break;
                 }
             }
-
             if (nameEx == "Enough")
             {
-                Console.WriteLine($"Average score: { averageGrade:f2}");
+                Console.WriteLine($"Average score: {averageGrade / whileCount:f2}");
                 Console.WriteLine($"Number of problems: {whileCount}");
                 Console.WriteLine($"Last problem: {nameEx}");
 
             }
 
 
-            
-
         }
+
+
     }
+
 }
