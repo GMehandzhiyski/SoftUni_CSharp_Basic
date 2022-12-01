@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\ExamPreparation\obj\Debug\net5.0\ExamPreparation.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\ExamPreparation\obj\Debug\net5.0\ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\ExamPreparation\obj\Debug\net5.0\ExamPreparation.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\ExamPreparation\obj\Debug\net5.0\ExamPreparation.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\ExamPreparation\obj\Debug\net5.0\ExamPreparation.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\ExamPreparation\bin\Debug\net5.0\ExamPreparation.exe
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\ExamPreparation\bin\Debug\net5.0\ExamPreparation.deps.json
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\ExamPreparation\bin\Debug\net5.0\ExamPreparation.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\ExamPreparation\bin\Debug\net5.0\ExamPreparation.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\ExamPreparation\bin\Debug\net5.0\ExamPreparation.dll
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\ExamPreparation\bin\Debug\net5.0\ExamPreparation.pdb
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\ExamPreparation\obj\Debug\net5.0\ExamPreparation.dll
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\ExamPreparation\obj\Debug\net5.0\refint\ExamPreparation.dll
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\ExamPreparation\obj\Debug\net5.0\ExamPreparation.pdb
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\ExamPreparation\obj\Debug\net5.0\ExamPreparation.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\ExamPreparation\obj\Debug\net5.0\ref\ExamPreparation.dll
