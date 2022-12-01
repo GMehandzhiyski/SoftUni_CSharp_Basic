@@ -13,7 +13,7 @@ namespace Vacation
             int saveCounter = 0;
             int daysCounter = 0;
 
-            string operation = string.Empty;  
+            string operation = String.Empty;  
             double inputMoney = 0;
 
 
@@ -22,7 +22,8 @@ namespace Vacation
             {
                 operation = Console.ReadLine();
                 inputMoney = int.Parse(Console.ReadLine());
-             
+                daysCounter++;
+
 
                 if (operation == "spend")
                 {
@@ -31,16 +32,17 @@ namespace Vacation
                     {
                         availableMoney = 0;
                     }
+
                     spendConuter++;
-                    daysCounter++;
                 }
 
                 if (operation == "save")
                 {
-                    saveCounter++;
+                    
                     availableMoney = availableMoney + inputMoney;
+
                     spendConuter = 0;
-                    daysCounter ++;
+                    saveCounter++;
                 }
 
                
@@ -50,10 +52,10 @@ namespace Vacation
                 Console.WriteLine($"You saved the money for {daysCounter} days.");
                 }
 
-                if (spendConuter >= 5)
+                if (spendConuter == 5)
                 {
                 Console.WriteLine($"You can't save the money.");
-                Console.WriteLine($"{spendConuter}");
+                Console.WriteLine($"{daysCounter}");
                 }
 
            
