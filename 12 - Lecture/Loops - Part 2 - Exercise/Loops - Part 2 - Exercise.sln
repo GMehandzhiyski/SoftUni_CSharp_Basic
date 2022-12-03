@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExamPreparation", "ExamPrep
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vacation", "Vacation\Vacation.csproj", "{2CD22483-EFF5-4DEC-A565-A0092B6A43E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Walking", "Walking\Walking.csproj", "{104D3A6F-6714-4B42-9E41-0CCD979B49AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Walking", "Walking\Walking.csproj", "{104D3A6F-6714-4B42-9E41-0CCD979B49AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coins", "Coins\Coins.csproj", "{EDDCED4D-13F3-496A-9713-A23D5C419FBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{104D3A6F-6714-4B42-9E41-0CCD979B49AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{104D3A6F-6714-4B42-9E41-0CCD979B49AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{104D3A6F-6714-4B42-9E41-0CCD979B49AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDDCED4D-13F3-496A-9713-A23D5C419FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDCED4D-13F3-496A-9713-A23D5C419FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDCED4D-13F3-496A-9713-A23D5C419FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDCED4D-13F3-496A-9713-A23D5C419FBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
