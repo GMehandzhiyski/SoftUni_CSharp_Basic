@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Coins\bin\Debug\net5.0\Coins.exe
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Coins\bin\Debug\net5.0\Coins.deps.json
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Coins\bin\Debug\net5.0\Coins.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Coins\bin\Debug\net5.0\Coins.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Coins\bin\Debug\net5.0\Coins.dll
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Coins\bin\Debug\net5.0\Coins.pdb
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Coins\obj\Debug\net5.0\Coins.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Coins\obj\Debug\net5.0\Coins.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Coins\obj\Debug\net5.0\Coins.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Coins\obj\Debug\net5.0\Coins.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Coins\obj\Debug\net5.0\Coins.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Coins\obj\Debug\net5.0\Coins.dll
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Coins\obj\Debug\net5.0\refint\Coins.dll
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Coins\obj\Debug\net5.0\Coins.pdb
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Coins\obj\Debug\net5.0\Coins.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Coins\obj\Debug\net5.0\ref\Coins.dll
