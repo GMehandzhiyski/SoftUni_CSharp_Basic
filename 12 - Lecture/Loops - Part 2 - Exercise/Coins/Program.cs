@@ -9,28 +9,29 @@ namespace Coins
             double inputSum = double.Parse(Console.ReadLine());
             double outputSum = 0;
             double twoLvCoins = 0;
-           /* double oneLvCoins = 0;
-            double coins050 = 0;
+            double oneLvCoins = 0;
+           double coins050 = 0;
             double coins020 = 0;
             double coins010 = 0;
             double coins005 = 0;
             double coins002 = 0;
-            double coins001 = 0;*/
+            double coins001 = 0;
 
-
-            while (inputSum != outputSum)
+            while (inputSum >= outputSum)
             {
                 if (inputSum >= 2)
                 {
                     inputSum = inputSum - 2;
                     twoLvCoins++;
                 }
-                /*
+                
                 if (inputSum >= 1 && inputSum < 2)
                 {
                     inputSum = inputSum - 1;
                     oneLvCoins++;
                 }
+                outputSum = twoLvCoins + oneLvCoins;
+                
                 if (inputSum >= 0.50 && inputSum < 1 )
                 {
                     inputSum = inputSum - 0.50;
@@ -61,12 +62,12 @@ namespace Coins
                     inputSum = inputSum - 0.01;
                     coins001++;
                 }
-                */
-
-                outputSum = twoLvCoins;
+               
+               
+              
             }
-
-            Console.WriteLine(twoLvCoins);
+            Console.WriteLine(outputSum);
+            
            
 
 
