@@ -6,13 +6,13 @@ namespace Walking
     {
         static void Main(string[] args)
         {
-            int totalSteps = 0;
+            double totalSteps = 0;
 
             string input  = String.Empty;
 
             while ((input = Console.ReadLine()) != "Going home")
             { 
-            int steps = int.Parse(input);
+            double steps = double.Parse(input);
 
             totalSteps = totalSteps + steps;
 
@@ -27,7 +27,7 @@ namespace Walking
             if (input == "Going home")
             {
                 input = Console.ReadLine();
-                int steps = int.Parse(input);
+                double steps = double.Parse(input);
                 totalSteps = totalSteps + steps;
                 if (totalSteps > 10000)
                 {
