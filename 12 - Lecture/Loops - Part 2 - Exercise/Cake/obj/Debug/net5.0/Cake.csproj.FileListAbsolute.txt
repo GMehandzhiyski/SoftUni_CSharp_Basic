@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Cake\bin\Debug\net5.0\Cake.exe
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Cake\bin\Debug\net5.0\Cake.deps.json
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Cake\bin\Debug\net5.0\Cake.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Cake\bin\Debug\net5.0\Cake.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Cake\bin\Debug\net5.0\Cake.dll
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Cake\bin\Debug\net5.0\Cake.pdb
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Cake\obj\Debug\net5.0\Cake.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Cake\obj\Debug\net5.0\Cake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Cake\obj\Debug\net5.0\Cake.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Cake\obj\Debug\net5.0\Cake.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Cake\obj\Debug\net5.0\Cake.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Cake\obj\Debug\net5.0\Cake.dll
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Cake\obj\Debug\net5.0\refint\Cake.dll
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Cake\obj\Debug\net5.0\Cake.pdb
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Cake\obj\Debug\net5.0\Cake.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\12 - Lecture\Loops - Part 2 - Exercise\Cake\obj\Debug\net5.0\ref\Cake.dll
