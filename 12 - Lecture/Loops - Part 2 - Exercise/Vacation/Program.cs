@@ -7,8 +7,8 @@ namespace Vacation
     {
         static void Main(string[] args)
         {
-            double vacantionMoney = int.Parse(Console.ReadLine());
-            double availableMoney = int.Parse(Console.ReadLine());
+            double vacantionMoney = double.Parse(Console.ReadLine());
+            double availableMoney = double.Parse(Console.ReadLine());
             int spendConuter = 0;
             int saveCounter = 0;
             int daysCounter = 0;
