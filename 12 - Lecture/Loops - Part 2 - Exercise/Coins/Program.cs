@@ -10,7 +10,7 @@ namespace Coins
             double outputSum = 0;
             double twoLvCoins = 0;
             double oneLvCoins = 0;
-           double coins050 = 0;
+            double coins050 = 0;
             double coins020 = 0;
             double coins010 = 0;
             double coins005 = 0;
@@ -30,7 +30,6 @@ namespace Coins
                     inputSum = inputSum - 1;
                     oneLvCoins++;
                 }
-                outputSum = twoLvCoins + oneLvCoins;
                 
                 if (inputSum >= 0.50 && inputSum < 1 )
                 {
@@ -62,9 +61,9 @@ namespace Coins
                     inputSum = inputSum - 0.01;
                     coins001++;
                 }
-               
-               
-              
+                outputSum = twoLvCoins + oneLvCoins + coins050 + coins020 + coins010 + coins005 + coins002 + coins001 ;
+
+
             }
             Console.WriteLine(outputSum);
             

@@ -21,7 +21,7 @@ namespace Vacation
             while (spendConuter < 5 && availableMoney < vacantionMoney)
             {
                 operation = Console.ReadLine();
-                inputMoney = int.Parse(Console.ReadLine());
+                inputMoney = double.Parse(Console.ReadLine());
                 daysCounter++;
 
 
@@ -39,7 +39,7 @@ namespace Vacation
                 if (operation == "save")
                 {
                     
-                    availableMoney = availableMoney + inputMoney;
+                    availableMoney += inputMoney;
 
                     spendConuter = 0;
                     saveCounter++;
