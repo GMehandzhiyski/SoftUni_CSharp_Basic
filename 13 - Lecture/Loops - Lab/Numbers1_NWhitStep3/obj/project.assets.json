@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work_Git\\CSharp_Basic\\13 - Lecture\\Loops - Lab\\Numbers1_NWhitStep3\\Numbers1_NWhitStep3.csproj",
-      "projectName": "Numbers1_NWhitStep3",
-      "projectPath": "D:\\Work_Git\\CSharp_Basic\\13 - Lecture\\Loops - Lab\\Numbers1_NWhitStep3\\Numbers1_NWhitStep3.csproj",
+      "projectUniqueName": "D:\\Work_Git\\CSharp_Basic\\13 - Lecture\\Loops - Lab\\Numbers1_NWhitStep3\\EvenPowersOf2.csproj",
+      "projectName": "EvenPowersOf2",
+      "projectPath": "D:\\Work_Git\\CSharp_Basic\\13 - Lecture\\Loops - Lab\\Numbers1_NWhitStep3\\EvenPowersOf2.csproj",
       "packagesPath": "C:\\Users\\bggemeh\\.nuget\\packages\\",
       "outputPath": "D:\\Work_Git\\CSharp_Basic\\13 - Lecture\\Loops - Lab\\Numbers1_NWhitStep3\\obj\\",
       "projectStyle": "PackageReference",
