@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Numbers N_1\bin\Debug\net5.0\Numbers N_1.exe
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Numbers N_1\bin\Debug\net5.0\Numbers N_1.deps.json
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Numbers N_1\bin\Debug\net5.0\Numbers N_1.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Numbers N_1\bin\Debug\net5.0\Numbers N_1.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Numbers N_1\bin\Debug\net5.0\Numbers N_1.dll
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Numbers N_1\bin\Debug\net5.0\Numbers N_1.pdb
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Numbers N_1\obj\Debug\net5.0\Numbers N_1.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Numbers N_1\obj\Debug\net5.0\Numbers N_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Numbers N_1\obj\Debug\net5.0\Numbers N_1.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Numbers N_1\obj\Debug\net5.0\Numbers N_1.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Numbers N_1\obj\Debug\net5.0\Numbers N_1.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Numbers N_1\obj\Debug\net5.0\Numbers N_1.dll
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Numbers N_1\obj\Debug\net5.0\refint\Numbers N_1.dll
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Numbers N_1\obj\Debug\net5.0\Numbers N_1.pdb
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Numbers N_1\obj\Debug\net5.0\Numbers N_1.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Numbers N_1\obj\Debug\net5.0\ref\Numbers N_1.dll
