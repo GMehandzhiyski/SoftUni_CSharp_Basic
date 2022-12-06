@@ -6,78 +6,57 @@ namespace Coins
     {
         static void Main(string[] args)
         {
-            double inputSum = double.Parse(Console.ReadLine());
-            double outputSum = 0;
-            double twoLvCoins = 0;
-            double oneLvCoins = 0;
-            double coins050 = 0;
-            double coins020 = 0;
-            double coins010 = 0;
-            double coins005 = 0;
-            double coins002 = 0;
-            double coins001 = 0;
+            decimal inputSum = decimal.Parse(Console.ReadLine());
+            int sumOfCoins = 0;
+
+            
 
             while (inputSum > 0)
             {
+                 
                 if (inputSum >= 2)
                 {
-                    inputSum = inputSum - 2;
-                    twoLvCoins++;
+                    sumOfCoins++;
+                    inputSum -= 2;
                 }
-                
-                if (inputSum >= 1 && inputSum < 2)
+                else if (inputSum >= 1)
                 {
-                    inputSum = inputSum - 1;
-                    oneLvCoins++;
+                    sumOfCoins++;
+                    inputSum -= 1;
                 }
-                
-                if (inputSum >= 0.50 && inputSum < 1 )
+                else if (inputSum >= 0.50m)
                 {
-                    inputSum = inputSum - 0.50;
-                    coins050++;
+                    sumOfCoins++;
+                    inputSum -= 0.50m;
                 }
-                if (inputSum >= 0.20 && inputSum < 0.5)
+                else if (inputSum >= 0.20m)
                 {
-                    inputSum = inputSum - 0.20;
-                    coins020++;
+                    sumOfCoins++;
+                    inputSum -= 0.20m;
                 }
-                if (inputSum >= 0.10 && inputSum < 0.20)
+                else if (inputSum >= 0.10m)
                 {
-                    inputSum = inputSum - 0.10;
-                    coins010++;
+                    sumOfCoins++;
+                    inputSum -= 0.10m;
                 }
-                if (inputSum >= 0.05 && inputSum < 0.10)
+                else if (inputSum >= 0.05m)
                 {
-                    inputSum = inputSum - 0.05;
-                    coins005++;
+                    sumOfCoins++;
+                    inputSum -= 0.05m;
                 }
-                if (inputSum >= 0.02 && inputSum < 0.05)
+                else if (inputSum >= 0.02m)
                 {
-                    inputSum = inputSum - 0.02;
-                    coins002++;
+                    sumOfCoins++;
+                    inputSum -= 0.02m;
                 }
-                if (inputSum >= 0.01 && inputSum < 0.02)
+                else if (inputSum <= 0.01m)
                 {
-                    coins001++;
-                    inputSum = inputSum - 0.01;
-                    /*
-                    if (inputSum < 0.01)
-                    {
-                        inputSum = 0;
-                    }
-                    */
+                    sumOfCoins++;
+                    inputSum -= 0.01m;
                 }
-                if (inputSum < 0.01)
-                {
-                    coins001++;
-                    inputSum = Math.Round(inputSum);
-                }
-
-                outputSum = twoLvCoins + oneLvCoins + coins050 + coins020 + coins010 + coins005 + coins002 + coins001 ;
-
-
+               
             }
-            Console.WriteLine(outputSum);
+            Console.WriteLine(sumOfCoins);
             
            
 
@@ -85,3 +64,5 @@ namespace Coins
         }
     }
 }
+            
+          

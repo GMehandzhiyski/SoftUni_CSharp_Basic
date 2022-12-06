@@ -6,20 +6,21 @@ namespace Walking
     {
         static void Main(string[] args)
         {
-            double totalSteps = 0;
+            int totalSteps = 0;
 
             string input  = String.Empty;
 
             while ((input = Console.ReadLine()) != "Going home")
             { 
-            double steps = double.Parse(input);
+            int steps = int.Parse(input);
 
-            totalSteps = totalSteps + steps;
+            totalSteps += steps;
 
 
                 if (totalSteps >= 10000)
                 {
                     Console.WriteLine($"Goal reached! Good job!");
+                    break;
 
                 }
             }
@@ -27,9 +28,10 @@ namespace Walking
             if (input == "Going home")
             {
                 input = Console.ReadLine();
-                double steps = double.Parse(input);
-                totalSteps = totalSteps + steps;
-                if (totalSteps > 10000)
+                int steps = int.Parse(input);
+                totalSteps += steps;
+
+                if (totalSteps >= 10000)
                 {
                     Console.WriteLine($"Goal reached! Good job!");
                 }
