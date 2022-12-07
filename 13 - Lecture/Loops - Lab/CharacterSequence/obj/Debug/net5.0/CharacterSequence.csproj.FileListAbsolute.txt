@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\CharacterSequence\bin\Debug\net5.0\CharacterSequence.exe
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\CharacterSequence\bin\Debug\net5.0\CharacterSequence.deps.json
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\CharacterSequence\bin\Debug\net5.0\CharacterSequence.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\CharacterSequence\bin\Debug\net5.0\CharacterSequence.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\CharacterSequence\bin\Debug\net5.0\CharacterSequence.dll
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\CharacterSequence\bin\Debug\net5.0\CharacterSequence.pdb
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\CharacterSequence\obj\Debug\net5.0\CharacterSequence.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\CharacterSequence\obj\Debug\net5.0\CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\CharacterSequence\obj\Debug\net5.0\CharacterSequence.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\CharacterSequence\obj\Debug\net5.0\CharacterSequence.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\CharacterSequence\obj\Debug\net5.0\CharacterSequence.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\CharacterSequence\obj\Debug\net5.0\CharacterSequence.dll
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\CharacterSequence\obj\Debug\net5.0\refint\CharacterSequence.dll
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\CharacterSequence\obj\Debug\net5.0\CharacterSequence.pdb
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\CharacterSequence\obj\Debug\net5.0\CharacterSequence.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\CharacterSequence\obj\Debug\net5.0\ref\CharacterSequence.dll
