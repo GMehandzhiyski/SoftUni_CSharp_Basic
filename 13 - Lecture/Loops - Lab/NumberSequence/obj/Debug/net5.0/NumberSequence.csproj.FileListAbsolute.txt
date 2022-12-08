@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\NumberSequence\obj\Debug\net5.0\NumberSequence.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\NumberSequence\obj\Debug\net5.0\NumberSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\NumberSequence\obj\Debug\net5.0\NumberSequence.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\NumberSequence\obj\Debug\net5.0\NumberSequence.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\NumberSequence\obj\Debug\net5.0\NumberSequence.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\NumberSequence\bin\Debug\net5.0\NumberSequence.exe
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\NumberSequence\bin\Debug\net5.0\NumberSequence.deps.json
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\NumberSequence\bin\Debug\net5.0\NumberSequence.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\NumberSequence\bin\Debug\net5.0\NumberSequence.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\NumberSequence\bin\Debug\net5.0\NumberSequence.dll
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\NumberSequence\bin\Debug\net5.0\NumberSequence.pdb
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\NumberSequence\obj\Debug\net5.0\NumberSequence.dll
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\NumberSequence\obj\Debug\net5.0\refint\NumberSequence.dll
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\NumberSequence\obj\Debug\net5.0\NumberSequence.pdb
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\NumberSequence\obj\Debug\net5.0\NumberSequence.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\NumberSequence\obj\Debug\net5.0\ref\NumberSequence.dll
