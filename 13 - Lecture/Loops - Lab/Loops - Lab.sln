@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenPowersOf2", "Numbers1_N
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharacterSequence", "CharacterSequence\CharacterSequence.csproj", "{80DC0BDE-951E-416A-98A3-5CCDACDC364E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumNumbers", "SumNumbers\SumNumbers.csproj", "{4F92E353-8168-4B1A-849B-5963900DD00C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumNumbers", "SumNumbers\SumNumbers.csproj", "{4F92E353-8168-4B1A-849B-5963900DD00C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberSequence", "NumberSequence\NumberSequence.csproj", "{F8BED37B-D4C0-4894-AE16-CA90642A34DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberSequence", "NumberSequence\NumberSequence.csproj", "{F8BED37B-D4C0-4894-AE16-CA90642A34DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeftAndRightSum", "LeftAndRightSum\LeftAndRightSum.csproj", "{D92C8795-D140-4D43-A525-BAD501D89A13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{F8BED37B-D4C0-4894-AE16-CA90642A34DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8BED37B-D4C0-4894-AE16-CA90642A34DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8BED37B-D4C0-4894-AE16-CA90642A34DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92C8795-D140-4D43-A525-BAD501D89A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92C8795-D140-4D43-A525-BAD501D89A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92C8795-D140-4D43-A525-BAD501D89A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92C8795-D140-4D43-A525-BAD501D89A13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
