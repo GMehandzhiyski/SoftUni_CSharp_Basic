@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\LeftAndRightSum\bin\Debug\net5.0\LeftAndRightSum.exe
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\LeftAndRightSum\bin\Debug\net5.0\LeftAndRightSum.deps.json
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\LeftAndRightSum\bin\Debug\net5.0\LeftAndRightSum.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\LeftAndRightSum\bin\Debug\net5.0\LeftAndRightSum.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\LeftAndRightSum\bin\Debug\net5.0\LeftAndRightSum.dll
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\LeftAndRightSum\bin\Debug\net5.0\LeftAndRightSum.pdb
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\LeftAndRightSum\obj\Debug\net5.0\LeftAndRightSum.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\LeftAndRightSum\obj\Debug\net5.0\LeftAndRightSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\LeftAndRightSum\obj\Debug\net5.0\LeftAndRightSum.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\LeftAndRightSum\obj\Debug\net5.0\LeftAndRightSum.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\LeftAndRightSum\obj\Debug\net5.0\LeftAndRightSum.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\LeftAndRightSum\obj\Debug\net5.0\LeftAndRightSum.dll
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\LeftAndRightSum\obj\Debug\net5.0\refint\LeftAndRightSum.dll
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\LeftAndRightSum\obj\Debug\net5.0\LeftAndRightSum.pdb
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\LeftAndRightSum\obj\Debug\net5.0\LeftAndRightSum.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\LeftAndRightSum\obj\Debug\net5.0\ref\LeftAndRightSum.dll
