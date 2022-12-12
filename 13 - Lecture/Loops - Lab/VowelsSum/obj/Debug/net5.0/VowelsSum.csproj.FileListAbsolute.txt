@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\VowelsSum\bin\Debug\net5.0\VowelsSum.exe
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\VowelsSum\bin\Debug\net5.0\VowelsSum.deps.json
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\VowelsSum\bin\Debug\net5.0\VowelsSum.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\VowelsSum\bin\Debug\net5.0\VowelsSum.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\VowelsSum\bin\Debug\net5.0\VowelsSum.dll
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\VowelsSum\bin\Debug\net5.0\VowelsSum.pdb
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\VowelsSum\obj\Debug\net5.0\VowelsSum.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\VowelsSum\obj\Debug\net5.0\VowelsSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\VowelsSum\obj\Debug\net5.0\VowelsSum.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\VowelsSum\obj\Debug\net5.0\VowelsSum.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\VowelsSum\obj\Debug\net5.0\VowelsSum.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\VowelsSum\obj\Debug\net5.0\VowelsSum.dll
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\VowelsSum\obj\Debug\net5.0\refint\VowelsSum.dll
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\VowelsSum\obj\Debug\net5.0\VowelsSum.pdb
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\VowelsSum\obj\Debug\net5.0\VowelsSum.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\VowelsSum\obj\Debug\net5.0\ref\VowelsSum.dll
