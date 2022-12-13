@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Clever Lily\bin\Debug\net5.0\Clever Lily.exe
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Clever Lily\bin\Debug\net5.0\Clever Lily.deps.json
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Clever Lily\bin\Debug\net5.0\Clever Lily.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Clever Lily\bin\Debug\net5.0\Clever Lily.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Clever Lily\bin\Debug\net5.0\Clever Lily.dll
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Clever Lily\bin\Debug\net5.0\Clever Lily.pdb
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Clever Lily\obj\Debug\net5.0\Clever Lily.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Clever Lily\obj\Debug\net5.0\Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Clever Lily\obj\Debug\net5.0\Clever Lily.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Clever Lily\obj\Debug\net5.0\Clever Lily.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Clever Lily\obj\Debug\net5.0\Clever Lily.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Clever Lily\obj\Debug\net5.0\Clever Lily.dll
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Clever Lily\obj\Debug\net5.0\refint\Clever Lily.dll
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Clever Lily\obj\Debug\net5.0\Clever Lily.pdb
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Clever Lily\obj\Debug\net5.0\Clever Lily.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\13 - Lecture\Loops - Lab\Clever Lily\obj\Debug\net5.0\ref\Clever Lily.dll
