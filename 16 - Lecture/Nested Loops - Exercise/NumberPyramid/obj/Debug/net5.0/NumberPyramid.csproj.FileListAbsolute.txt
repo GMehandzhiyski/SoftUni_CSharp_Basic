@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\NumberPyramid\bin\Debug\net5.0\NumberPyramid.exe
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\NumberPyramid\bin\Debug\net5.0\NumberPyramid.deps.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\NumberPyramid\bin\Debug\net5.0\NumberPyramid.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\NumberPyramid\bin\Debug\net5.0\NumberPyramid.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\NumberPyramid\bin\Debug\net5.0\NumberPyramid.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\NumberPyramid\bin\Debug\net5.0\NumberPyramid.pdb
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\NumberPyramid\obj\Debug\net5.0\NumberPyramid.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\NumberPyramid\obj\Debug\net5.0\NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\NumberPyramid\obj\Debug\net5.0\NumberPyramid.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\NumberPyramid\obj\Debug\net5.0\NumberPyramid.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\NumberPyramid\obj\Debug\net5.0\NumberPyramid.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\NumberPyramid\obj\Debug\net5.0\NumberPyramid.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\NumberPyramid\obj\Debug\net5.0\refint\NumberPyramid.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\NumberPyramid\obj\Debug\net5.0\NumberPyramid.pdb
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\NumberPyramid\obj\Debug\net5.0\NumberPyramid.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\NumberPyramid\obj\Debug\net5.0\ref\NumberPyramid.dll
