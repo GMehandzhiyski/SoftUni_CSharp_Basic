@@ -6,7 +6,7 @@ namespace Loops___Exercise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }

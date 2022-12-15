@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Loops - Exercise\bin\Debug\net5.0\Loops - Exercise.exe
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Loops - Exercise\bin\Debug\net5.0\Loops - Exercise.deps.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Loops - Exercise\bin\Debug\net5.0\Loops - Exercise.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Loops - Exercise\bin\Debug\net5.0\Loops - Exercise.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Loops - Exercise\bin\Debug\net5.0\Loops - Exercise.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Loops - Exercise\bin\Debug\net5.0\Loops - Exercise.pdb
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Loops - Exercise\obj\Debug\net5.0\Loops - Exercise.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Loops - Exercise\obj\Debug\net5.0\Loops - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Loops - Exercise\obj\Debug\net5.0\Loops - Exercise.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Loops - Exercise\obj\Debug\net5.0\Loops - Exercise.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Loops - Exercise\obj\Debug\net5.0\Loops - Exercise.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Loops - Exercise\obj\Debug\net5.0\Loops - Exercise.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Loops - Exercise\obj\Debug\net5.0\refint\Loops - Exercise.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Loops - Exercise\obj\Debug\net5.0\Loops - Exercise.pdb
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Loops - Exercise\obj\Debug\net5.0\Loops - Exercise.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Loops - Exercise\obj\Debug\net5.0\ref\Loops - Exercise.dll
