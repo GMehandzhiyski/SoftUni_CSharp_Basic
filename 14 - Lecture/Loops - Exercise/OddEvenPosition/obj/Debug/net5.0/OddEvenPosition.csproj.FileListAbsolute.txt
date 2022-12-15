@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\OddEvenPosition\bin\Debug\net5.0\OddEvenPosition.exe
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\OddEvenPosition\bin\Debug\net5.0\OddEvenPosition.deps.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\OddEvenPosition\bin\Debug\net5.0\OddEvenPosition.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\OddEvenPosition\bin\Debug\net5.0\OddEvenPosition.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\OddEvenPosition\bin\Debug\net5.0\OddEvenPosition.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\OddEvenPosition\bin\Debug\net5.0\OddEvenPosition.pdb
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\OddEvenPosition\obj\Debug\net5.0\OddEvenPosition.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\OddEvenPosition\obj\Debug\net5.0\OddEvenPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\OddEvenPosition\obj\Debug\net5.0\OddEvenPosition.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\OddEvenPosition\obj\Debug\net5.0\OddEvenPosition.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\OddEvenPosition\obj\Debug\net5.0\OddEvenPosition.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\OddEvenPosition\obj\Debug\net5.0\OddEvenPosition.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\OddEvenPosition\obj\Debug\net5.0\refint\OddEvenPosition.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\OddEvenPosition\obj\Debug\net5.0\OddEvenPosition.pdb
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\OddEvenPosition\obj\Debug\net5.0\OddEvenPosition.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\OddEvenPosition\obj\Debug\net5.0\ref\OddEvenPosition.dll
