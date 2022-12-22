@@ -6,7 +6,7 @@ namespace Histogram
     {
         static void Main(string[] args)
         {
-            double numbers = int.Parse(Console.ReadLine());
+            double numbers = double.Parse(Console.ReadLine());
             double num = 0;
             double p1 = 0;
             double p2 = 0;
@@ -18,7 +18,7 @@ namespace Histogram
 
             for (int i = 1; i <= numbers; i++)
             {
-                num = int.Parse(Console.ReadLine());
+                num = double.Parse(Console.ReadLine());
                 if (num < 200)
                 {
                     p1++;

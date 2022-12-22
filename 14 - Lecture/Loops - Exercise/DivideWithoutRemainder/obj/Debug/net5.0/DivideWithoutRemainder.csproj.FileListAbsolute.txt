@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\DivideWithoutRemainder\bin\Debug\net5.0\DivideWithoutRemainder.exe
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\DivideWithoutRemainder\bin\Debug\net5.0\DivideWithoutRemainder.deps.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\DivideWithoutRemainder\bin\Debug\net5.0\DivideWithoutRemainder.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\DivideWithoutRemainder\bin\Debug\net5.0\DivideWithoutRemainder.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\DivideWithoutRemainder\bin\Debug\net5.0\DivideWithoutRemainder.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\DivideWithoutRemainder\bin\Debug\net5.0\DivideWithoutRemainder.pdb
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\DivideWithoutRemainder\obj\Debug\net5.0\DivideWithoutRemainder.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\DivideWithoutRemainder\obj\Debug\net5.0\DivideWithoutRemainder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\DivideWithoutRemainder\obj\Debug\net5.0\DivideWithoutRemainder.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\DivideWithoutRemainder\obj\Debug\net5.0\DivideWithoutRemainder.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\DivideWithoutRemainder\obj\Debug\net5.0\DivideWithoutRemainder.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\DivideWithoutRemainder\obj\Debug\net5.0\DivideWithoutRemainder.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\DivideWithoutRemainder\obj\Debug\net5.0\refint\DivideWithoutRemainder.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\DivideWithoutRemainder\obj\Debug\net5.0\DivideWithoutRemainder.pdb
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\DivideWithoutRemainder\obj\Debug\net5.0\DivideWithoutRemainder.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\DivideWithoutRemainder\obj\Debug\net5.0\ref\DivideWithoutRemainder.dll
