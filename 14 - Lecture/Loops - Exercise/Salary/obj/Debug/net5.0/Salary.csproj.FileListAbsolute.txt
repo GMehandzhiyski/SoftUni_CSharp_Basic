@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Salary\bin\Debug\net5.0\Salary.exe
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Salary\bin\Debug\net5.0\Salary.deps.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Salary\bin\Debug\net5.0\Salary.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Salary\bin\Debug\net5.0\Salary.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Salary\bin\Debug\net5.0\Salary.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Salary\bin\Debug\net5.0\Salary.pdb
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Salary\obj\Debug\net5.0\Salary.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Salary\obj\Debug\net5.0\Salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Salary\obj\Debug\net5.0\Salary.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Salary\obj\Debug\net5.0\Salary.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Salary\obj\Debug\net5.0\Salary.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Salary\obj\Debug\net5.0\Salary.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Salary\obj\Debug\net5.0\refint\Salary.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Salary\obj\Debug\net5.0\Salary.pdb
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Salary\obj\Debug\net5.0\Salary.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Salary\obj\Debug\net5.0\ref\Salary.dll
