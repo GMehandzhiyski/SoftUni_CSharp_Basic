@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Histogram\bin\Debug\net5.0\Histogram.exe
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Histogram\bin\Debug\net5.0\Histogram.deps.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Histogram\bin\Debug\net5.0\Histogram.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Histogram\bin\Debug\net5.0\Histogram.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Histogram\bin\Debug\net5.0\Histogram.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Histogram\bin\Debug\net5.0\Histogram.pdb
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Histogram\obj\Debug\net5.0\Histogram.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Histogram\obj\Debug\net5.0\Histogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Histogram\obj\Debug\net5.0\Histogram.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Histogram\obj\Debug\net5.0\Histogram.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Histogram\obj\Debug\net5.0\Histogram.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Histogram\obj\Debug\net5.0\Histogram.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Histogram\obj\Debug\net5.0\refint\Histogram.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Histogram\obj\Debug\net5.0\Histogram.pdb
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Histogram\obj\Debug\net5.0\Histogram.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Loops - Exercise\Histogram\obj\Debug\net5.0\ref\Histogram.dll
