@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Clock\bin\Debug\net5.0\Clock.exe
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Clock\bin\Debug\net5.0\Clock.deps.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Clock\bin\Debug\net5.0\Clock.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Clock\bin\Debug\net5.0\Clock.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Clock\bin\Debug\net5.0\Clock.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Clock\bin\Debug\net5.0\Clock.pdb
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Clock\obj\Debug\net5.0\Clock.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Clock\obj\Debug\net5.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Clock\obj\Debug\net5.0\Clock.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Clock\obj\Debug\net5.0\Clock.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Clock\obj\Debug\net5.0\Clock.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Clock\obj\Debug\net5.0\Clock.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Clock\obj\Debug\net5.0\refint\Clock.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Clock\obj\Debug\net5.0\Clock.pdb
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Clock\obj\Debug\net5.0\Clock.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Clock\obj\Debug\net5.0\ref\Clock.dll
