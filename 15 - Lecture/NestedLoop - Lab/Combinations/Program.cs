@@ -12,7 +12,7 @@ namespace Combinations
             int n = int.Parse(Console.ReadLine());
             int ij = 0;
 
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i <= n; i++)
             {
                 for (int ii = 0; ii <= n; ii++)
                 {

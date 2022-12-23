@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\SumOfTwoNumbers\bin\Debug\net5.0\SumOfTwoNumbers.exe
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\SumOfTwoNumbers\bin\Debug\net5.0\SumOfTwoNumbers.deps.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\SumOfTwoNumbers\bin\Debug\net5.0\SumOfTwoNumbers.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\SumOfTwoNumbers\bin\Debug\net5.0\SumOfTwoNumbers.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\SumOfTwoNumbers\bin\Debug\net5.0\SumOfTwoNumbers.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\SumOfTwoNumbers\bin\Debug\net5.0\SumOfTwoNumbers.pdb
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\SumOfTwoNumbers\obj\Debug\net5.0\refint\SumOfTwoNumbers.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.pdb
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\SumOfTwoNumbers\obj\Debug\net5.0\ref\SumOfTwoNumbers.dll
