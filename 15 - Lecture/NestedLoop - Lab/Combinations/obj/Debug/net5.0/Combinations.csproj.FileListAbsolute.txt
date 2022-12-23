@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Combinations\bin\Debug\net5.0\Combinations.exe
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Combinations\bin\Debug\net5.0\Combinations.deps.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Combinations\bin\Debug\net5.0\Combinations.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Combinations\bin\Debug\net5.0\Combinations.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Combinations\bin\Debug\net5.0\Combinations.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Combinations\bin\Debug\net5.0\Combinations.pdb
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Combinations\obj\Debug\net5.0\Combinations.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Combinations\obj\Debug\net5.0\Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Combinations\obj\Debug\net5.0\Combinations.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Combinations\obj\Debug\net5.0\Combinations.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Combinations\obj\Debug\net5.0\Combinations.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Combinations\obj\Debug\net5.0\Combinations.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Combinations\obj\Debug\net5.0\refint\Combinations.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Combinations\obj\Debug\net5.0\Combinations.pdb
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Combinations\obj\Debug\net5.0\Combinations.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Combinations\obj\Debug\net5.0\ref\Combinations.dll
