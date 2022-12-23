@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLoop - Lab", "NestedL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock", "Clock\Clock.csproj", "{AFD67772-319A-4798-BD8E-218D1F61CFAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{AFAC1F27-5DDF-455C-B391-1A872392D062}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AFD67772-319A-4798-BD8E-218D1F61CFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFD67772-319A-4798-BD8E-218D1F61CFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFD67772-319A-4798-BD8E-218D1F61CFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFAC1F27-5DDF-455C-B391-1A872392D062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAC1F27-5DDF-455C-B391-1A872392D062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAC1F27-5DDF-455C-B391-1A872392D062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAC1F27-5DDF-455C-B391-1A872392D062}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
