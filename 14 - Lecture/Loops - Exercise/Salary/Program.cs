@@ -9,7 +9,7 @@ namespace Salary
            double tabs = double.Parse(Console.ReadLine());
            double salary = double.Parse(Console.ReadLine());
 
-            for (int i = 1; i <= tabs; i++)
+            for (int i = 0; i < tabs; i++)
             {
                 string webSite = Console.ReadLine();
 
