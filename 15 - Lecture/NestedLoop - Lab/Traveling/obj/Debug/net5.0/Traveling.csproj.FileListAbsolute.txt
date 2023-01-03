@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Traveling\bin\Debug\net5.0\Traveling.exe
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Traveling\bin\Debug\net5.0\Traveling.deps.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Traveling\bin\Debug\net5.0\Traveling.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Traveling\bin\Debug\net5.0\Traveling.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Traveling\bin\Debug\net5.0\Traveling.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Traveling\bin\Debug\net5.0\Traveling.pdb
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Traveling\obj\Debug\net5.0\Traveling.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Traveling\obj\Debug\net5.0\Traveling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Traveling\obj\Debug\net5.0\Traveling.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Traveling\obj\Debug\net5.0\Traveling.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Traveling\obj\Debug\net5.0\Traveling.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Traveling\obj\Debug\net5.0\Traveling.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Traveling\obj\Debug\net5.0\refint\Traveling.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Traveling\obj\Debug\net5.0\Traveling.pdb
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Traveling\obj\Debug\net5.0\Traveling.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Traveling\obj\Debug\net5.0\ref\Traveling.dll
