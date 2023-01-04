@@ -10,46 +10,36 @@ namespace Traveling
             int bugget = 0;
             string destination = string.Empty;
             string country = string.Empty;
-            int sumTotal = 0;
-/*
-            while (firstWhile == 0 )
-            {
-                destination = Console.ReadLine();
-                bugget = int.Parse(Console.ReadLine());
-                firstWhile++;
-                country = destination;
-
-            }
-  */          
+            int sumTotal = 0;        
            
-            while ((destination = Console.ReadLine()) != "End" )
+
+            while (true)
             {
                 while (firstWhile == 0)
                 {
-                    //destination = Console.ReadLine();
+                    destination = Console.ReadLine();
+                    if (destination == "End")
+                    {
+                        return;
+                    }
                     bugget = int.Parse(Console.ReadLine());
                     firstWhile++;
                     country = destination;
-
                 }
-                int sum = int.Parse(destination);
+                int sum = int.Parse(Console.ReadLine());
                 
                 sumTotal += sum;
-                while (bugget <= sumTotal)
+                if (bugget <= sumTotal)
                 {
                         Console.WriteLine($"Going to {country}!");
                         destination = String.Empty;
                         sumTotal = 0;
                         firstWhile = 0;
-
                 }
                
 
             }
-            if (destination == "End")
-            {
-                return;
-            }
+           
         }
     }
 }
