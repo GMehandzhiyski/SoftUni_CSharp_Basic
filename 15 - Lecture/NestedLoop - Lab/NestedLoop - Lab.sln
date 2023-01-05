@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLoop - Lab", "NestedLoop - Lab\NestedLoop - Lab.csproj", "{2BB48D2E-838B-4ECE-9814-4C381F5A5AA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NestedLoop - Lab", "NestedLoop - Lab\NestedLoop - Lab.csproj", "{2BB48D2E-838B-4ECE-9814-4C381F5A5AA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock", "Clock\Clock.csproj", "{AFD67772-319A-4798-BD8E-218D1F61CFAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clock", "Clock\Clock.csproj", "{AFD67772-319A-4798-BD8E-218D1F61CFAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{AFAC1F27-5DDF-455C-B391-1A872392D062}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{AFAC1F27-5DDF-455C-B391-1A872392D062}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinations", "Combinations\Combinations.csproj", "{3E8E8681-F3FF-4BEF-9EA4-7F74BDB1A25B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Combinations", "Combinations\Combinations.csproj", "{3E8E8681-F3FF-4BEF-9EA4-7F74BDB1A25B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfTwoNumbers", "SumOfTwoNumbers\SumOfTwoNumbers.csproj", "{399C36B7-4D7D-447E-9038-EB377625568F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfTwoNumbers", "SumOfTwoNumbers\SumOfTwoNumbers.csproj", "{399C36B7-4D7D-447E-9038-EB377625568F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traveling", "Traveling\Traveling.csproj", "{900686CF-CED5-4D7C-8ED0-405AE07ED16A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Traveling", "Traveling\Traveling.csproj", "{900686CF-CED5-4D7C-8ED0-405AE07ED16A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Building", "Building\Building.csproj", "{C7B99633-F0A7-4E5E-A194-862F9FEE6982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaTickets", "CinemaTickets\CinemaTickets.csproj", "{E7914C4A-5CB0-4D7D-B689-A812C24A4CD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{900686CF-CED5-4D7C-8ED0-405AE07ED16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{900686CF-CED5-4D7C-8ED0-405AE07ED16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{900686CF-CED5-4D7C-8ED0-405AE07ED16A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B99633-F0A7-4E5E-A194-862F9FEE6982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B99633-F0A7-4E5E-A194-862F9FEE6982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B99633-F0A7-4E5E-A194-862F9FEE6982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B99633-F0A7-4E5E-A194-862F9FEE6982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7914C4A-5CB0-4D7D-B689-A812C24A4CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7914C4A-5CB0-4D7D-B689-A812C24A4CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7914C4A-5CB0-4D7D-B689-A812C24A4CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7914C4A-5CB0-4D7D-B689-A812C24A4CD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

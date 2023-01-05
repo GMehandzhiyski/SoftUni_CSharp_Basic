@@ -10,12 +10,11 @@ namespace Traveling
             int bugget = 0;
             string destination = string.Empty;
             string country = string.Empty;
-            int sumTotal = 0;        
-           
+            int sumTotal = 0;
 
-            while (true)
-            {
-                while (firstWhile == 0)
+
+            
+                while (firstWhile == 0 )
                 {
                     destination = Console.ReadLine();
                     if (destination == "End")
@@ -26,20 +25,48 @@ namespace Traveling
                     firstWhile++;
                     country = destination;
                 }
+
                 int sum = int.Parse(Console.ReadLine());
-                
+
                 sumTotal += sum;
                 if (bugget <= sumTotal)
                 {
-                        Console.WriteLine($"Going to {country}!");
-                        destination = String.Empty;
-                        sumTotal = 0;
-                        firstWhile = 0;
+                    Console.WriteLine($"Going to {country}!");
+                    destination = String.Empty;
+                    sumTotal = 0;
+                    firstWhile = 0;
                 }
-               
 
-            }
-           
+
+            /*
+                        while (true)
+                        {
+                            while (firstWhile == 0)
+                            {
+                                destination = Console.ReadLine();
+                                if (destination == "End")
+                                {
+                                    return;
+                                }
+                                bugget = int.Parse(Console.ReadLine());
+                                firstWhile++;
+                                country = destination;
+                            }
+                            int sum = int.Parse(Console.ReadLine());
+
+                            sumTotal += sum;
+                            if (bugget <= sumTotal)
+                            {
+                                    Console.WriteLine($"Going to {country}!");
+                                    destination = String.Empty;
+                                    sumTotal = 0;
+                                    firstWhile = 0;
+                            }
+
+
+                        }
+            */
+
         }
     }
 }
