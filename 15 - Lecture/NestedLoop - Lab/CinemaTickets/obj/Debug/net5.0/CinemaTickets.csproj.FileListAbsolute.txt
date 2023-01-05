@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\CinemaTickets\bin\Debug\net5.0\CinemaTickets.exe
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\CinemaTickets\bin\Debug\net5.0\CinemaTickets.deps.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\CinemaTickets\bin\Debug\net5.0\CinemaTickets.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\CinemaTickets\bin\Debug\net5.0\CinemaTickets.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\CinemaTickets\bin\Debug\net5.0\CinemaTickets.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\CinemaTickets\bin\Debug\net5.0\CinemaTickets.pdb
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\CinemaTickets\obj\Debug\net5.0\CinemaTickets.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\CinemaTickets\obj\Debug\net5.0\CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\CinemaTickets\obj\Debug\net5.0\CinemaTickets.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\CinemaTickets\obj\Debug\net5.0\CinemaTickets.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\CinemaTickets\obj\Debug\net5.0\CinemaTickets.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\CinemaTickets\obj\Debug\net5.0\CinemaTickets.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\CinemaTickets\obj\Debug\net5.0\refint\CinemaTickets.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\CinemaTickets\obj\Debug\net5.0\CinemaTickets.pdb
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\CinemaTickets\obj\Debug\net5.0\CinemaTickets.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\CinemaTickets\obj\Debug\net5.0\ref\CinemaTickets.dll
