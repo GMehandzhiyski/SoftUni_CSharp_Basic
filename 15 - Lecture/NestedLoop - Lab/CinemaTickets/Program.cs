@@ -40,20 +40,15 @@ namespace CinemaTickets
                         kidtTicket++;
                         midTickets++;
                     }
-
                     if (emptyPlace == midTickets)
                     {
                         break;
                     }
-
                 }
-
                 totalTicket = standartTicket + studenttTicket + kidtTicket;
                 capacity = midTickets / emptyPlace;
                 midTickets = 0;
                 Console.WriteLine($"{film} - {((capacity) * 100):f2}% full.");
-                    
-              
             }
 
             totalTicket = standartTicket + studenttTicket + kidtTicket;
