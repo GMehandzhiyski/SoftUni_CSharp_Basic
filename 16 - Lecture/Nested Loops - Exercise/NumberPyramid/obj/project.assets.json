@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work_Git\\CSharp_Basic\\14 - Lecture\\Nested Loops - Exercise\\NumberPyramid\\NumberPyramid.csproj",
+      "projectUniqueName": "D:\\Work_Git\\CSharp_Basic\\16 - Lecture\\Nested Loops - Exercise\\NumberPyramid\\NumberPyramid.csproj",
       "projectName": "NumberPyramid",
-      "projectPath": "D:\\Work_Git\\CSharp_Basic\\14 - Lecture\\Nested Loops - Exercise\\NumberPyramid\\NumberPyramid.csproj",
+      "projectPath": "D:\\Work_Git\\CSharp_Basic\\16 - Lecture\\Nested Loops - Exercise\\NumberPyramid\\NumberPyramid.csproj",
       "packagesPath": "C:\\Users\\bggemeh\\.nuget\\packages\\",
-      "outputPath": "D:\\Work_Git\\CSharp_Basic\\14 - Lecture\\Nested Loops - Exercise\\NumberPyramid\\obj\\",
+      "outputPath": "D:\\Work_Git\\CSharp_Basic\\16 - Lecture\\Nested Loops - Exercise\\NumberPyramid\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bggemeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
