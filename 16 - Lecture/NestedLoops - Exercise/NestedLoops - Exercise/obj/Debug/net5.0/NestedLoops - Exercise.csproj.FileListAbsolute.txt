@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\NestedLoops - Exercise\bin\Debug\net5.0\NestedLoops - Exercise.exe
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\NestedLoops - Exercise\bin\Debug\net5.0\NestedLoops - Exercise.deps.json
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\NestedLoops - Exercise\bin\Debug\net5.0\NestedLoops - Exercise.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\NestedLoops - Exercise\bin\Debug\net5.0\NestedLoops - Exercise.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\NestedLoops - Exercise\bin\Debug\net5.0\NestedLoops - Exercise.dll
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\NestedLoops - Exercise\bin\Debug\net5.0\NestedLoops - Exercise.pdb
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\NestedLoops - Exercise\obj\Debug\net5.0\NestedLoops - Exercise.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\NestedLoops - Exercise\obj\Debug\net5.0\NestedLoops - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\NestedLoops - Exercise\obj\Debug\net5.0\NestedLoops - Exercise.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\NestedLoops - Exercise\obj\Debug\net5.0\NestedLoops - Exercise.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\NestedLoops - Exercise\obj\Debug\net5.0\NestedLoops - Exercise.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\NestedLoops - Exercise\obj\Debug\net5.0\NestedLoops - Exercise.dll
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\NestedLoops - Exercise\obj\Debug\net5.0\refint\NestedLoops - Exercise.dll
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\NestedLoops - Exercise\obj\Debug\net5.0\NestedLoops - Exercise.pdb
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\NestedLoops - Exercise\obj\Debug\net5.0\NestedLoops - Exercise.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\NestedLoops - Exercise\obj\Debug\net5.0\ref\NestedLoops - Exercise.dll

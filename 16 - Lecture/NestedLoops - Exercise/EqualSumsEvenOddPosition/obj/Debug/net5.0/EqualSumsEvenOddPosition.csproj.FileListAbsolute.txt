@@ -1,0 +1,32 @@
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\EqualSumsEvenOddPosition\bin\Debug\net5.0\EqualSumsEvenOddPosition.exe
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\EqualSumsEvenOddPosition\bin\Debug\net5.0\EqualSumsEvenOddPosition.deps.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\EqualSumsEvenOddPosition\bin\Debug\net5.0\EqualSumsEvenOddPosition.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\EqualSumsEvenOddPosition\bin\Debug\net5.0\EqualSumsEvenOddPosition.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\EqualSumsEvenOddPosition\bin\Debug\net5.0\EqualSumsEvenOddPosition.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\EqualSumsEvenOddPosition\bin\Debug\net5.0\EqualSumsEvenOddPosition.pdb
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\refint\EqualSumsEvenOddPosition.dll
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.pdb
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\14 - Lecture\Nested Loops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\ref\EqualSumsEvenOddPosition.dll
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\EqualSumsEvenOddPosition\bin\Debug\net5.0\EqualSumsEvenOddPosition.exe
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\EqualSumsEvenOddPosition\bin\Debug\net5.0\EqualSumsEvenOddPosition.deps.json
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\EqualSumsEvenOddPosition\bin\Debug\net5.0\EqualSumsEvenOddPosition.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\EqualSumsEvenOddPosition\bin\Debug\net5.0\EqualSumsEvenOddPosition.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\EqualSumsEvenOddPosition\bin\Debug\net5.0\EqualSumsEvenOddPosition.dll
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\EqualSumsEvenOddPosition\bin\Debug\net5.0\EqualSumsEvenOddPosition.pdb
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.dll
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\refint\EqualSumsEvenOddPosition.dll
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.pdb
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\ref\EqualSumsEvenOddPosition.dll

@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\TrainTheTrainers\bin\Debug\net5.0\TrainTheTrainers.exe
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\TrainTheTrainers\bin\Debug\net5.0\TrainTheTrainers.deps.json
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\TrainTheTrainers\bin\Debug\net5.0\TrainTheTrainers.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\TrainTheTrainers\bin\Debug\net5.0\TrainTheTrainers.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\TrainTheTrainers\bin\Debug\net5.0\TrainTheTrainers.dll
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\TrainTheTrainers\bin\Debug\net5.0\TrainTheTrainers.pdb
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\TrainTheTrainers\obj\Debug\net5.0\TrainTheTrainers.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\TrainTheTrainers\obj\Debug\net5.0\TrainTheTrainers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\TrainTheTrainers\obj\Debug\net5.0\TrainTheTrainers.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\TrainTheTrainers\obj\Debug\net5.0\TrainTheTrainers.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\TrainTheTrainers\obj\Debug\net5.0\TrainTheTrainers.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\TrainTheTrainers\obj\Debug\net5.0\TrainTheTrainers.dll
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\TrainTheTrainers\obj\Debug\net5.0\refint\TrainTheTrainers.dll
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\TrainTheTrainers\obj\Debug\net5.0\TrainTheTrainers.pdb
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\TrainTheTrainers\obj\Debug\net5.0\TrainTheTrainers.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\TrainTheTrainers\obj\Debug\net5.0\ref\TrainTheTrainers.dll

@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\SumPrimeNonPrime\bin\Debug\net5.0\SumPrimeNonPrime.exe
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\SumPrimeNonPrime\bin\Debug\net5.0\SumPrimeNonPrime.deps.json
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\SumPrimeNonPrime\bin\Debug\net5.0\SumPrimeNonPrime.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\SumPrimeNonPrime\bin\Debug\net5.0\SumPrimeNonPrime.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\SumPrimeNonPrime\bin\Debug\net5.0\SumPrimeNonPrime.dll
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\SumPrimeNonPrime\bin\Debug\net5.0\SumPrimeNonPrime.pdb
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.dll
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\SumPrimeNonPrime\obj\Debug\net5.0\refint\SumPrimeNonPrime.dll
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.pdb
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\16 - Lecture\NestedLoops - Exercise\SumPrimeNonPrime\obj\Debug\net5.0\ref\SumPrimeNonPrime.dll
