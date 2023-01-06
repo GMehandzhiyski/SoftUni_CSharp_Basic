@@ -6,66 +6,23 @@ namespace Traveling
     {
         static void Main(string[] args)
         {
-            int firstWhile = 0;
-            int bugget = 0;
-            string destination = string.Empty;
-            string country = string.Empty;
-            int sumTotal = 0;
-
-
             
-                while (firstWhile == 0 )
-                {
-                    destination = Console.ReadLine();
-                    if (destination == "End")
-                    {
-                        return;
-                    }
-                    bugget = int.Parse(Console.ReadLine());
-                    firstWhile++;
-                    country = destination;
-                }
+            double bugget = 0;
+            string destination = string.Empty;
+            double sumTotal = 0;
 
-                int sum = int.Parse(Console.ReadLine());
+           while ((destination = Console.ReadLine()) != "End")
+           {
+              bugget = double.Parse(Console.ReadLine());
 
-                sumTotal += sum;
-                if (bugget <= sumTotal)
-                {
-                    Console.WriteLine($"Going to {country}!");
-                    destination = String.Empty;
-                    sumTotal = 0;
-                    firstWhile = 0;
-                }
+              while (bugget > sumTotal)
+              {                     
+               sumTotal += double.Parse(Console.ReadLine());
+              }
+              Console.WriteLine($"Going to {destination}!");
+              sumTotal = 0;
 
-
-            /*
-                        while (true)
-                        {
-                            while (firstWhile == 0)
-                            {
-                                destination = Console.ReadLine();
-                                if (destination == "End")
-                                {
-                                    return;
-                                }
-                                bugget = int.Parse(Console.ReadLine());
-                                firstWhile++;
-                                country = destination;
-                            }
-                            int sum = int.Parse(Console.ReadLine());
-
-                            sumTotal += sum;
-                            if (bugget <= sumTotal)
-                            {
-                                    Console.WriteLine($"Going to {country}!");
-                                    destination = String.Empty;
-                                    sumTotal = 0;
-                                    firstWhile = 0;
-                            }
-
-
-                        }
-            */
+           }
 
         }
     }
