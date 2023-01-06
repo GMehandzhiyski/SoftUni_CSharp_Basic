@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work_Git\\CSharp_Basic\\14 - Lecture\\Nested Loops - Exercise\\EqualSumsEvenOddPosition\\EqualSumsEvenOddPosition.csproj": {}
+    "D:\\Work_Git\\CSharp_Basic\\16 - Lecture\\Nested Loops - Exercise\\EqualSumsEvenOddPosition\\EqualSumsEvenOddPosition.csproj": {}
   },
   "projects": {
-    "D:\\Work_Git\\CSharp_Basic\\14 - Lecture\\Nested Loops - Exercise\\EqualSumsEvenOddPosition\\EqualSumsEvenOddPosition.csproj": {
+    "D:\\Work_Git\\CSharp_Basic\\16 - Lecture\\Nested Loops - Exercise\\EqualSumsEvenOddPosition\\EqualSumsEvenOddPosition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work_Git\\CSharp_Basic\\14 - Lecture\\Nested Loops - Exercise\\EqualSumsEvenOddPosition\\EqualSumsEvenOddPosition.csproj",
+        "projectUniqueName": "D:\\Work_Git\\CSharp_Basic\\16 - Lecture\\Nested Loops - Exercise\\EqualSumsEvenOddPosition\\EqualSumsEvenOddPosition.csproj",
         "projectName": "EqualSumsEvenOddPosition",
-        "projectPath": "D:\\Work_Git\\CSharp_Basic\\14 - Lecture\\Nested Loops - Exercise\\EqualSumsEvenOddPosition\\EqualSumsEvenOddPosition.csproj",
+        "projectPath": "D:\\Work_Git\\CSharp_Basic\\16 - Lecture\\Nested Loops - Exercise\\EqualSumsEvenOddPosition\\EqualSumsEvenOddPosition.csproj",
         "packagesPath": "C:\\Users\\bggemeh\\.nuget\\packages\\",
-        "outputPath": "D:\\Work_Git\\CSharp_Basic\\14 - Lecture\\Nested Loops - Exercise\\EqualSumsEvenOddPosition\\obj\\",
+        "outputPath": "D:\\Work_Git\\CSharp_Basic\\16 - Lecture\\Nested Loops - Exercise\\EqualSumsEvenOddPosition\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bggemeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
