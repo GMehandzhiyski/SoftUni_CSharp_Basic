@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work_Git\\CSharp_Basic\\14 - Lecture\\Nested Loops - Exercise\\Nested Loops - Exercise\\Nested Loops - Exercise.csproj": {}
+    "D:\\Work_Git\\CSharp_Basic\\16 - Lecture\\Nested Loops - Exercise\\Nested Loops - Exercise\\Nested Loops - Exercise.csproj": {}
   },
   "projects": {
-    "D:\\Work_Git\\CSharp_Basic\\14 - Lecture\\Nested Loops - Exercise\\Nested Loops - Exercise\\Nested Loops - Exercise.csproj": {
+    "D:\\Work_Git\\CSharp_Basic\\16 - Lecture\\Nested Loops - Exercise\\Nested Loops - Exercise\\Nested Loops - Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work_Git\\CSharp_Basic\\14 - Lecture\\Nested Loops - Exercise\\Nested Loops - Exercise\\Nested Loops - Exercise.csproj",
+        "projectUniqueName": "D:\\Work_Git\\CSharp_Basic\\16 - Lecture\\Nested Loops - Exercise\\Nested Loops - Exercise\\Nested Loops - Exercise.csproj",
         "projectName": "Nested Loops - Exercise",
-        "projectPath": "D:\\Work_Git\\CSharp_Basic\\14 - Lecture\\Nested Loops - Exercise\\Nested Loops - Exercise\\Nested Loops - Exercise.csproj",
+        "projectPath": "D:\\Work_Git\\CSharp_Basic\\16 - Lecture\\Nested Loops - Exercise\\Nested Loops - Exercise\\Nested Loops - Exercise.csproj",
         "packagesPath": "C:\\Users\\bggemeh\\.nuget\\packages\\",
-        "outputPath": "D:\\Work_Git\\CSharp_Basic\\14 - Lecture\\Nested Loops - Exercise\\Nested Loops - Exercise\\obj\\",
+        "outputPath": "D:\\Work_Git\\CSharp_Basic\\16 - Lecture\\Nested Loops - Exercise\\Nested Loops - Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bggemeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
