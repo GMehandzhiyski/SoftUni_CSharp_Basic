@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Building\bin\Debug\net5.0\Building.exe
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Building\bin\Debug\net5.0\Building.deps.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Building\bin\Debug\net5.0\Building.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Building\bin\Debug\net5.0\Building.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Building\bin\Debug\net5.0\Building.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Building\bin\Debug\net5.0\Building.pdb
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Building\obj\Debug\net5.0\Building.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Building\obj\Debug\net5.0\Building.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Building\obj\Debug\net5.0\Building.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Building\obj\Debug\net5.0\Building.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Building\obj\Debug\net5.0\Building.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Building\obj\Debug\net5.0\Building.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Building\obj\Debug\net5.0\refint\Building.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Building\obj\Debug\net5.0\Building.pdb
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Building\obj\Debug\net5.0\Building.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\Building\obj\Debug\net5.0\ref\Building.dll

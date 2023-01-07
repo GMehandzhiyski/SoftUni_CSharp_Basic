@@ -1,0 +1,16 @@
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\TestCinema\bin\Debug\net5.0\TestCinema.exe
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\TestCinema\bin\Debug\net5.0\TestCinema.deps.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\TestCinema\bin\Debug\net5.0\TestCinema.runtimeconfig.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\TestCinema\bin\Debug\net5.0\TestCinema.runtimeconfig.dev.json
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\TestCinema\bin\Debug\net5.0\TestCinema.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\TestCinema\bin\Debug\net5.0\TestCinema.pdb
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\TestCinema\obj\Debug\net5.0\TestCinema.csproj.AssemblyReference.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\TestCinema\obj\Debug\net5.0\TestCinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\TestCinema\obj\Debug\net5.0\TestCinema.AssemblyInfoInputs.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\TestCinema\obj\Debug\net5.0\TestCinema.AssemblyInfo.cs
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\TestCinema\obj\Debug\net5.0\TestCinema.csproj.CoreCompileInputs.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\TestCinema\obj\Debug\net5.0\TestCinema.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\TestCinema\obj\Debug\net5.0\refint\TestCinema.dll
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\TestCinema\obj\Debug\net5.0\TestCinema.pdb
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\TestCinema\obj\Debug\net5.0\TestCinema.genruntimeconfig.cache
+D:\Work_Git\CSharp_Basic\15 - Lecture\NestedLoop - Lab\TestCinema\obj\Debug\net5.0\ref\TestCinema.dll
